@@ -1,3 +1,7 @@
+#custom
+sample_response.html
+jobs.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

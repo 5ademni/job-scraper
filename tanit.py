@@ -37,19 +37,32 @@ def scrape_jobs(url):
     return jobs
 
 
-def scrape_all_pages(base_url, num_pages):
-    all_jobs = []
-    for i in range(1, num_pages + 1):
-        url = f"{base_url}&page={i}"
-        jobs = scrape_jobs(url)
-        all_jobs.extend(jobs)
+def scrape_jobs_across_pages(base_urls, num_pages):
+    all_jobs = {}
+    for base_url in base_urls:
+        jobs = []
+        for i in range(1, num_pages + 1):
+            url = f"{base_url}&page={i}"
+            jobs.extend(scrape_jobs(url))
+        all_jobs[base_url] = jobs
     return all_jobs
 
 
 if __name__ == "__main__":
-    base_url = "https://www.tanitjobs.com/jobs/"
-    num_pages = 5  # replace with the number of pages you want to scrape
-    jobs = scrape_all_pages(base_url, num_pages)
+    category_dict = {
+        "ingenierie": "https://www.tanitjobs.com/categories/707/ingenierie-jobs/?searchId=1710344349.2239&action=search",
+        "technologie_de_linformation": "https://www.tanitjobs.com/categories/381/technologie-de-l-information-jobs/?searchId=1710344353.1857&action=search",
+        "telecommunications": "https://www.tanitjobs.com/categories/710/t%C3%A9l%C3%A9communications-jobs/?searchId=1710344354.4138&action=search",
+        "design": "https://www.tanitjobs.com/categories/386/design-jobs/?searchId=1710344356.7963&action=search",
+        "electronique": "https://www.tanitjobs.com/categories/969/electronique-jobs/?searchId=1710344364.8323&action=search",
+        "informatique": "https://www.tanitjobs.com/categories/705/informatique-jobs/?searchId=1710344373.4958&action=search"
+    }
+    # replace 5 with the number of pages you want to scrape
+    jobs = scrape_jobs_across_pages(
+        [category_dict["ingenierie"], category_dict["design"]], num_pages=2)
+
+    with open('jobs.json', 'w') as f:
+        json.dump(jobs, f)
 
     with open('jobs.json', 'w') as f:
         json.dump(jobs, f)

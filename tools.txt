@@ -1,1 +1,0 @@
-https://github.com/spinlud/py-linkedin-jobs-scraper
