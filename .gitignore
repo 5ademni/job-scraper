@@ -1,6 +1,7 @@
 #custom
 sample_response.html
 jobs.json
+harvest/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -8,8 +8,6 @@ def scrape_jobs(url):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
     response = requests.get(url, headers=headers)
-    '''DEBUG: with open('sample_response.html', 'w', encoding='utf-8') as f:
-        f.write(response.text)'''
     soup = BeautifulSoup(response.text, 'html.parser')
 
     jobs = []
@@ -22,14 +20,17 @@ def scrape_jobs(url):
             'span', class_='listing-item__info--item listing-item__info--item-company').text.strip()
         location = job_post.find(
             'span', class_='listing-item__info--item listing-item__info--item-location').text.strip()
-        voir_plus_link = job_post.find(
-            'a', class_='link')['href']
+        voir_plus_link = job_post.find('a', class_='link')['href']
+        logo_element = job_post.find(
+            'img', class_='media-object profile__img-company')
+        company_logo = logo_element['src'] if logo_element else None
 
         job = {
             'title': job_title,
             'company': company_name,
             'location': location,
-            'link': voir_plus_link
+            'link': voir_plus_link,
+            'company_logo': company_logo
         }
 
         jobs.append(job)
@@ -58,11 +59,7 @@ if __name__ == "__main__":
         "informatique": "https://www.tanitjobs.com/categories/705/informatique-jobs/?searchId=1710344373.4958&action=search"
     }
     # replace 5 with the number of pages you want to scrape
-    jobs = scrape_jobs_across_pages(
-        [category_dict["ingenierie"], category_dict["design"]], num_pages=2)
+    jobs = scrape_jobs_across_pages([category_dict["ingenierie"]], num_pages=2)
 
-    with open('jobs.json', 'w') as f:
-        json.dump(jobs, f)
-
-    with open('jobs.json', 'w') as f:
+    with open('harvest/jobs.json', 'w') as f:
         json.dump(jobs, f)
