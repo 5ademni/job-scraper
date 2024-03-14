@@ -59,7 +59,8 @@ if __name__ == "__main__":
         "informatique": "https://www.tanitjobs.com/categories/705/informatique-jobs/?searchId=1710344373.4958&action=search"
     }
     # replace 5 with the number of pages you want to scrape
-    jobs = scrape_jobs_across_pages([category_dict["ingenierie"]], num_pages=2)
+    jobs = scrape_jobs_across_pages(
+        [category_dict["informatique"]], num_pages=2)
 
     with open('harvest/jobs.json', 'w') as f:
         json.dump(jobs, f)
