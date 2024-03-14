@@ -1,16 +1,17 @@
 from poe_api_wrapper import PoeApi
 
+
+with open('know_base/job_offers.txt', 'r', encoding='utf-8') as f:
+    data = f.read()
+
 client = PoeApi("CmpguqkTtuqLZh5w1XeRGw%3D%3D")
 
-bot = "travel_assitance"
+bot = "5ademni_bot"
 message = "say hi!"
 
-'''# streaming the response
-for chunk in client.send_message(bot, message):
-    print(chunk["response"], end="", flush=True)
-print("\n")'''
 
-# non-streaming response
-for chunk in client.send_message(bot, message):
-    pass
-print(chunk["text"])
+client.edit_knowledge(knowledgeSourceId=1428020, title='Job offers',
+                      content=data)
+
+
+print(client.get_available_knowledge(botName=bot))
