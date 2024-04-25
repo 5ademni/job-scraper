@@ -1,11 +1,11 @@
 import json
 
 # Load the JSON file
-with open('harvest/jobs.json', 'r', encoding='utf-8') as f:
+with open('harvest/know_base/json/tanit_jobs.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Open the output text file with 'utf-8' encoding
-with open('know_base/job_offers.txt', 'w', encoding='utf-8') as f:
+with open('harvest/know_base/txt/tanit_jobs.txt', 'w', encoding='utf-8') as f:
     # Iterate over each job
     for url, jobs in data.items():
         for job in jobs:

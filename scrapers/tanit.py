@@ -62,5 +62,5 @@ if __name__ == "__main__":
     jobs = scrape_jobs_across_pages(
         [category_dict["informatique"]], num_pages=2)
 
-    with open('harvest/jobs.json', 'w') as f:
+    with open('../harvest/know_base/json/tanit_jobs.json', 'w') as f:
         json.dump(jobs, f)
