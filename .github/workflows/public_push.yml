@@ -41,7 +41,7 @@ jobs:
           repository: "5ademni/job-dataset"
 
       - name: Copy Data to Public Repo
-        run: cp -r ../job-scraper/harvest/know_base/* . # Copies all files and subfolders
+        run: cp -r ${{ github.workspace }}/harvest/know_base/* .
 
       - name: Commit and Push to Public Repo
         run: |
