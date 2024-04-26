@@ -62,7 +62,8 @@ def scrape_and_store_jobs():
         "informatique": "https://www.tanitjobs.com/categories/705/informatique-jobs/?searchId=1710344373.4958&action=search"
     }
     for category, url in field_dict.items():
-        jobs = scrape_jobs_across_pages_tanit([url], num_pages=5)
+        jobs = scrape_jobs_across_pages_tanit(
+            [url], num_pages=1)  # TODO: change to 5
         # Create a file path relative to the script's location
         file_path = os.path.join(
             script_dir, f'../harvest/know_base/json/tanit_{category}.json')
