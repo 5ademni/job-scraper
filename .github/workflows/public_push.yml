@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.GH_PAT }} # A GitHub PAT that has access to your private repo
 
       - name: Run Scraper
-        run: python scraper.py # Replace with your actual command
+        run: python main.py
 
       - name: Commit Scraped Data
         run: |
