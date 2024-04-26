@@ -1,7 +1,8 @@
 name: Push Scraped Data to Public Repo
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 4 * * *" # Runs every day at 4 AM
+  workflow_dispatch: # Allows manual runs
 
 jobs:
   scrape-and-push:
@@ -10,7 +11,7 @@ jobs:
       - name: Checkout Private Repo
         uses: actions/checkout@v2
         with:
-          repository: "<Your GitHub Username>/<Your Private Repo>"
+          repository: "5ademni/job-scraper"
           token: ${{ secrets.GH_PAT }} # A GitHub PAT that has access to your private repo
 
       - name: Run Scraper
@@ -29,15 +30,13 @@ jobs:
       - name: Checkout Public Repo
         uses: actions/checkout@v2
         with:
-          repository: "<Your GitHub Username>/<Your Public Repo>"
-          path: public-repo
+          repository: "5ademni/job-dataset"
 
       - name: Copy Data to Public Repo
-        run: cp data.json public-repo/data.json # Replace with your actual paths
+        run: cp -r ../job-scraper/harvest/know_base/* . # Copies all files and subfolders
 
       - name: Commit and Push to Public Repo
         run: |
-          cd public-repo
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
