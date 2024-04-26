@@ -4,88 +4,94 @@ Location: Centre Urbain Nord, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1151117/chargé-e-recrutement-talent-acquisition/?backPage=&searchID=1710344353.1857
 Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/11/logo-18864-20191029-142642.png
 
-Title: Stage d'été en Data Science
-Company: Smart Conseil
-Location: Technopole El Gazala, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1265210/stage-d-été-en-data-science/?backPage=&searchID=1710344353.1857
+Title: Assistante Administrative et Commerciale
+Company: smart ways innovation
+Location: Route soukra Km 4 Sfax
+Link: https://www.tanitjobs.com/job/1529688/assistante-administrative-et-commerciale/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Développeur Editique BDOC
-Company: Owliance Tunisie
-Location: Chotrana 2, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1513433/développeur-editique-bdoc/?backPage=&searchID=1710344353.1857
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/owliance_1.png
-
-Title: Commercial Logiciels IA
-Company: Smart Conseil
-Location: Technopôle El Gazala, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1432813/commercial-logiciels-ia/?backPage=&searchID=1710344353.1857
+Title: Web Designer - Wordpress
+Company: Ecole du Digital du Belvédère
+Location: Lafayette, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1523557/web-designer-wordpress/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Docteur en Data Science/ Informatique
-Company: Smart Conseil
-Location: Technopole El Ghazela, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1236014/docteur-en-data-science-informatique/?backPage=&searchID=1710344353.1857
+Title: Technicien Support N1
+Company: Xpertcall
+Location: Charguia, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1017756/technicien-support-n1/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Développeur Web Expérimenté - Agence de Voyage
-Company: GO-Makkah Tunisie
+Title: Développeurs web Full-Stack
+Company: 3W WIT SUARL
+Location: Nabeul, Nabeul, Tunisie
+Link: https://www.tanitjobs.com/job/1518825/développeurs-web-full-stack/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Développeur PHP/Symfony Senior
+Company: Appinov Sarl
+Location: Le Kram, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1437372/développeur-php-symfony-senior/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Network and Infrastructure Engineer
+Company: M&C IT Consulting
+Location: Les Berges du Lac 1, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1511486/network-and-infrastructure-engineer/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Commerciale IT Senior
+Company: Axes
 Location: Les Berges du Lac I, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1514953/développeur-web-expérimenté-agence-de-voyage/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Implémentation Manager
-Company: VigilantSOC
-Location: Pôle de compétitivité de Sousse , Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1514775/implémentation-manager/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Community Manager
-Company: Groupe DE.M.CO
-Location: Route principale entre Moknine & Téboulba
-Link: https://www.tanitjobs.com/job/1479817/community-manager/?backPage=&searchID=1710344353.1857
-Company Logo: https://www.tanitjobs.com/files/pictures/2023/09/19/Groupe.png
-
-Title: Team Lead PHP Senior
-Company: Docapost Applicam
-Location: Parc Technologique El Ghazal ,Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1522802/team-lead-php-senior/?backPage=&searchID=1710344353.1857
+Link: https://www.tanitjobs.com/job/1392463/commerciale-it-senior/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
 Title: Infographiste
-Company: DCM MEDICAL
-Location: Zone Industriel Elghdire, Monastir, Tunisie
-Link: https://www.tanitjobs.com/job/1513923/infographiste/?backPage=&searchID=1710344353.1857
+Company: TRAIT D'UNION
+Location: Avenue des Orangers, khezama Est
+Link: https://www.tanitjobs.com/job/1522539/infographiste/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Front End Developer
+Title: Tech Lead | Full Stack Engineer
+Company: GTI
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1461450/tech-lead-full-stack-engineer/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Full-Stack Java Developer
+Company: xpr
+Location: Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1512361/full-stack-java-developer/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Lead Dev web
+Company: developers house
+Location: Ariana, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1527733/lead-dev-web/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Inside Sales / Commerciales BtoB Francophone
+Company: Leads Provider
+Location: Manouba, Manouba, Tunisie
+Link: https://www.tanitjobs.com/job/1495156/inside-sales-commerciales-btob-francophone/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Chargé Système d’Information
+Company: thera
+Location: Z.I El Agba, Manouba, Tunisie
+Link: https://www.tanitjobs.com/job/1521864/chargé-système-d-information/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Data Scientist
 Company: Yperflow
 Location: Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/950652/front-end-developer/?backPage=&searchID=1710344353.1857
+Link: https://www.tanitjobs.com/job/950638/data-scientist/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Chargée de Direction
-Company: Chirinecos
-Location: sfax beb bhar
-Link: https://www.tanitjobs.com/job/1515585/chargée-de-direction/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Instructeur Développement Mobile
-Company: Ecole du Digital du Belvédère
-Location: Rue de Jerusalem, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1516165/instructeur-développement-mobile/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Licencié(e) en informatique de gestion
-Company: PM Consulting
-Location: Zone Pouderière 1 Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1497386/licencié-e-en-informatique-de-gestion/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Responsable Marketing Digital
-Company: Cabinet de médecin
-Location: Ksar Hellal, Monastir, Tunisie
-Link: https://www.tanitjobs.com/job/1492665/responsable-marketing-digital/?backPage=&searchID=1710344353.1857
+Title: Developpeur .Net Expérimenté
+Company: SIMPLYDESK
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1521127/developpeur-net-expérimenté/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
 Title: Responsable de site
@@ -94,27 +100,21 @@ Location: Centre Urbain Nord, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1503134/responsable-de-site/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Développeur .Net (Confirmé/Senior) (à distance)
-Company: Esolutions
-Location: Tunisie, Tunisie
-Link: https://www.tanitjobs.com/job/1528484/développeur-net-confirmé-senior-à-distance/?backPage=&searchID=1710344353.1857
+Title: Développeur Senior PHP Fullstack
+Company: Le Backyard
+Location: Montplaisir, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1329730/développeur-senior-php-fullstack/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Référenceur Web / Spécialiste SEO
-Company: FOREVERMO GROUP
-Location: Hybride
-Link: https://www.tanitjobs.com/job/1511760/référenceur-web-spécialiste-seo/?backPage=&searchID=1710344353.1857
+Title: Gestionnaire de Données Web
+Company: Infopro digital
+Location: La Charguia II, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1516067/gestionnaire-de-données-web/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Rédacteur Web - Créateur de Contenu
-Company: SSII- Intégrateur ERP
+Title: Senior Full-Stack Java Developer
+Company: Vneuron
 Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1513233/rédacteur-web-créateur-de-contenu/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Développeur .Net Angular
-Company: Appinov Sarl
-Location: Appinov SARL
-Link: https://www.tanitjobs.com/job/1519118/développeur-net-angular/?backPage=&searchID=1710344353.1857
+Link: https://www.tanitjobs.com/job/1509351/senior-full-stack-java-developer/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
