@@ -22,7 +22,7 @@ jobs:
           repository: "5ademni/job-dataset"
 
       - name: Copy Data to Public Repo
-        run: cp -r ${{ github.workspace }}/job-scraper/harvest/* .
+        run: cp -r /home/runner/work/job-scraper/job-scraper/harvest/* .
 
       - name: Commit and Push to Public Repo
         run: |
