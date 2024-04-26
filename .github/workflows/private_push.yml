@@ -1,13 +1,11 @@
-name: Copy to Public Repo and Push
+name: Scrape and Push to Private Repo
 on:
-  workflow_run:
-    workflows: ["Scrape and Push to Private Repo"]
-    types:
-      - completed
+  schedule:
+    - cron: "0 4 * * *" # Runs every day at 4 AM
   workflow_dispatch: # Allows manual runs
 
 jobs:
-  copy-and-push:
+  scrape-and-push:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Private Repo
@@ -15,6 +13,27 @@ jobs:
         with:
           repository: "5ademni/job-scraper"
           token: ${{ secrets.GH_PAT }} # A GitHub PAT that has access to your private repo
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper
+        run: python main.py
+
+      - name: Commit Scraped Data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update scraped data"
+
+      - name: Push to Private Repo
+        run: git push
 
       - name: Checkout Public Repo
         uses: actions/checkout@v2
