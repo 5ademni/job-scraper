@@ -1,4 +1,4 @@
-name: Copy to Public Repo and Push
+name: Push to Public Repo
 on:
   workflow_run:
     workflows: ["Scrape and Push to Private Repo"]
@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allows manual runs
 
 jobs:
-  copy-and-push:
+  push:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Private Repo
@@ -15,17 +15,20 @@ jobs:
         with:
           repository: "5ademni/job-scraper"
           token: ${{ secrets.GH_PAT }} # A GitHub PAT that has access to your private repo
+          path: private_repo
 
-      - name: Checkout Public Repo
+      - name: Checkout Public Repo in a separate directory
         uses: actions/checkout@v2
         with:
           repository: "5ademni/job-dataset"
+          path: public_repo
 
-      - name: Copy Data to Public Repo
-        run: cp -r "/home/runner/work/job-scraper/harvest/"* .
+      - name: Move Data to Public Repo
+        run: mv "./private_repo/harvest/"* ./public_repo
 
       - name: Commit and Push to Public Repo
         run: |
+          cd public_repo
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
