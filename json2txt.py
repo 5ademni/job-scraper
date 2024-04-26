@@ -3,8 +3,10 @@ import json
 
 
 def json2txt():
-    # Define the directory you want to start from
-    rootDir = 'harvest/know_base/json/'
+    # Get the directory of the current script
+    script_dir = os.path.dirname(__file__)
+    # Create a file path relative to the script's location
+    rootDir = os.path.join(script_dir, 'harvest/know_base/json/')
 
     for dirName, subdirList, fileList in os.walk(rootDir):
         for fname in fileList:
@@ -12,7 +14,10 @@ def json2txt():
                 with open(os.path.join(dirName, fname), 'r', encoding='utf-8') as f:
                     data = json.load(f)
 
-                with open(f'harvest/know_base/txt/{os.path.splitext(fname)[0]}.txt', 'w', encoding='utf-8') as f:
+                # Create a file path relative to the script's location
+                txt_file_path = os.path.join(
+                    script_dir, f'harvest/know_base/txt/{os.path.splitext(fname)[0]}.txt')
+                with open(txt_file_path, 'w', encoding='utf-8') as f:
                     for url, jobs in data.items():
                         for job in jobs:
                             f.write(f"Title: {job['title']}\n")

@@ -4,4 +4,4 @@ import json2txt
 
 
 scrape_and_store_jobs()
-json2txt()
+json2txt.json2txt()

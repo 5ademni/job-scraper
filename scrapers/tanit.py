@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -50,6 +51,8 @@ def scrape_jobs_across_pages_tanit(base_urls, num_pages):
 
 
 def scrape_and_store_jobs():
+    # Get the directory of the current script
+    script_dir = os.path.dirname(__file__)
     field_dict = {
         "ingenierie": "https://www.tanitjobs.com/categories/707/ingenierie-jobs/?searchId=1710344349.2239&action=search",
         "technologie_de_linformation": "https://www.tanitjobs.com/categories/381/technologie-de-l-information-jobs/?searchId=1710344353.1857&action=search",
@@ -60,7 +63,10 @@ def scrape_and_store_jobs():
     }
     for category, url in field_dict.items():
         jobs = scrape_jobs_across_pages_tanit([url], num_pages=5)
-        with open(f'../harvest/know_base/json/tanit_{category}.json', 'w') as f:
+        # Create a file path relative to the script's location
+        file_path = os.path.join(
+            script_dir, f'../harvest/know_base/json/tanit_{category}.json')
+        with open(file_path, 'w') as f:
             json.dump(jobs, f)
 
 
