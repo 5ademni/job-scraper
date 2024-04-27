@@ -4,22 +4,28 @@ Location: Centre Urbain Nord, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1151117/chargé-e-recrutement-talent-acquisition/?backPage=&searchID=1710344353.1857
 Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/11/logo-18864-20191029-142642.png
 
-Title: Assistante Administrative et Commerciale
-Company: smart ways innovation
-Location: Route soukra Km 4 Sfax
-Link: https://www.tanitjobs.com/job/1529688/assistante-administrative-et-commerciale/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Web Designer - Wordpress
-Company: Ecole du Digital du Belvédère
-Location: Lafayette, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1523557/web-designer-wordpress/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
 Title: Technicien Support N1
 Company: Xpertcall
 Location: Charguia, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1017756/technicien-support-n1/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Une Cadre Administrative Spécialité en Communication et Marketing
+Company: MATEM
+Location: Route de l'Aeroport Km 4 Sfax, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1521915/une-cadre-administrative-spécialité-en-communication-et-marketing/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: RPA Developer (Tunis)
+Company: Veo Worldwide Services
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1524692/rpa-developer-tunis/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Assistante de Direction
+Company: E-Concept TN
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1499709/assistante-de-direction/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
 Title: Développeurs web Full-Stack
@@ -28,58 +34,22 @@ Location: Nabeul, Nabeul, Tunisie
 Link: https://www.tanitjobs.com/job/1518825/développeurs-web-full-stack/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Développeur PHP/Symfony Senior
-Company: Appinov Sarl
-Location: Le Kram, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1437372/développeur-php-symfony-senior/?backPage=&searchID=1710344353.1857
+Title: SRE / SecOps Engineer
+Company: Vneuron
+Location: La Charguia I, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1527559/sre-secops-engineer/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Network and Infrastructure Engineer
-Company: M&C IT Consulting
-Location: Les Berges du Lac 1, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1511486/network-and-infrastructure-engineer/?backPage=&searchID=1710344353.1857
-Company Logo: None
+Title: Administrateur Réseau et Système Informaticien
+Company: Centre Régional de formation à la sureté de l'Aviation de l'OACI
+Location: 7 , av Taha Hussein , Tunis
+Link: https://www.tanitjobs.com/job/1521930/administrateur-réseau-et-système-informaticien/?backPage=&searchID=1710344353.1857
+Company Logo: https://www.tanitjobs.com/files/pictures/2023/01/18/PANCARTE_%284%29.png
 
-Title: Commerciale IT Senior
-Company: Axes
-Location: Les Berges du Lac I, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1392463/commerciale-it-senior/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Infographiste
-Company: TRAIT D'UNION
-Location: Avenue des Orangers, khezama Est
-Link: https://www.tanitjobs.com/job/1522539/infographiste/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Tech Lead | Full Stack Engineer
-Company: GTI
+Title: Frontend Developer Vue.js (H/F)
+Company: Tunisie Systèmes d Information
 Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1461450/tech-lead-full-stack-engineer/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Full-Stack Java Developer
-Company: xpr
-Location: Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1512361/full-stack-java-developer/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Lead Dev web
-Company: developers house
-Location: Ariana, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1527733/lead-dev-web/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Inside Sales / Commerciales BtoB Francophone
-Company: Leads Provider
-Location: Manouba, Manouba, Tunisie
-Link: https://www.tanitjobs.com/job/1495156/inside-sales-commerciales-btob-francophone/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Chargé Système d’Information
-Company: thera
-Location: Z.I El Agba, Manouba, Tunisie
-Link: https://www.tanitjobs.com/job/1521864/chargé-système-d-information/?backPage=&searchID=1710344353.1857
+Link: https://www.tanitjobs.com/job/1522163/frontend-developer-vue-js-h-f/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
 Title: Data Scientist
@@ -88,33 +58,63 @@ Location: Sfax, Sfax, Tunisie
 Link: https://www.tanitjobs.com/job/950638/data-scientist/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Developpeur .Net Expérimenté
-Company: SIMPLYDESK
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1521127/developpeur-net-expérimenté/?backPage=&searchID=1710344353.1857
+Title: Businnes developer
+Company: Progress RH Tunisie
+Location: Grand Tunis
+Link: https://www.tanitjobs.com/job/1528321/businnes-developer/?backPage=&searchID=1710344353.1857
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/Progress-RH.png
+
+Title: Infographiste
+Company: DCM MEDICAL
+Location: Zone Industriel Elghdire, Monastir, Tunisie
+Link: https://www.tanitjobs.com/job/1513923/infographiste/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Responsable de site
-Company: Magic Online
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1503134/responsable-de-site/?backPage=&searchID=1710344353.1857
+Title: Sales Engineer / Commercial Logiciels IA
+Company: Yperflow
+Location: Sfax, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1450460/sales-engineer-commercial-logiciels-ia/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Développeur Senior PHP Fullstack
-Company: Le Backyard
-Location: Montplaisir, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1329730/développeur-senior-php-fullstack/?backPage=&searchID=1710344353.1857
+Title: Un(e) Comptable et Chargé(e) de Comptes Clients
+Company: Infinity Management
+Location: Les Berges du Lac 1, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1522919/un-e-comptable-et-chargé-e-de-comptes-clients/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Gestionnaire de Données Web
-Company: Infopro digital
-Location: La Charguia II, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1516067/gestionnaire-de-données-web/?backPage=&searchID=1710344353.1857
+Title: Ingénieur Développement Python Confirmé F/H
+Company: Soft Objects
+Location: Avenue Yasser Arafet Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1523324/ingénieur-développement-python-confirmé-f-h/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Senior Full-Stack Java Developer
-Company: Vneuron
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1509351/senior-full-stack-java-developer/?backPage=&searchID=1710344353.1857
+Title: Expert(e) SEO/SEA
+Company: BIZBOOSTER
+Location: Manar 2, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1526108/expert-e-seo-sea/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Team Lead PHP Senior
+Company: Docapost Applicam
+Location: Parc Technologique El Ghazal ,Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1522802/team-lead-php-senior/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Consultant ERP – Chef de Projet GPAO (H/F)
+Company: CISA INFORMATIQUE
+Location: Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1216996/consultant-erp-chef-de-projet-gpao-h-f/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Webmaster
+Company: HUMMEL TUNISIA
+Location: 45 rue de l'énergie 2035 charguia 1, Tunis-Carthage
+Link: https://www.tanitjobs.com/job/1521262/webmaster/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Technicien Fibre Optique
+Company: Trois Chemins
+Location: Sfax, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1513532/technicien-fibre-optique/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
