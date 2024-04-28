@@ -1,97 +1,37 @@
-Title: Web Designer
-Company: Tanitoss
-Location: Les Berges du Lac, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1513016/web-designer/?backPage=&searchID=1710344356.7963
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
-
 Title: Graphique Designer / Web Designer
 Company: Tanitoss
 Location: El Mourouj, Ben Arous, Tunisie
 Link: https://www.tanitjobs.com/job/1529781/graphique-designer-web-designer/?backPage=&searchID=1710344356.7963
 Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
 
-Title: Dessinateur en Bâtiment 2D et 3D
-Company: FIT CONSEIL
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1522344/dessinateur-en-bâtiment-2d-et-3d/?backPage=&searchID=1710344356.7963
-Company Logo: None
+Title: Web Designer
+Company: Tanitoss
+Location: Les Berges du Lac, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1513016/web-designer/?backPage=&searchID=1710344356.7963
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
 
-Title: Chef de Projet en Chiffrage de Meubles sur Mesure
-Company: Vitae Recrutement International
-Location: Montplaisir, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1517459/chef-de-projet-en-chiffrage-de-meubles-sur-mesure/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Graphic Designer / Graphiste (Sousse/ F)
-Company: Innovative Spirit
+Title: Designer Produit
+Company: NEPTUNE MOSAIC
 Location: Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1523770/graphic-designer-graphiste-sousse-f/?backPage=&searchID=1710344356.7963
+Link: https://www.tanitjobs.com/job/1527410/designer-produit/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Technicien Sublimation
+Title: Expert·e en Design UX et Analyse de Données
+Company: Estampes Ray
+Location: Manouba, Manouba, Tunisie
+Link: https://www.tanitjobs.com/job/1515549/expert-e-en-design-ux-et-analyse-de-données/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Styliste et Modéliste
 Company: Bacovet International
 Location: Boumerdes, Mahdia, Tunisie
-Link: https://www.tanitjobs.com/job/669225/technicien-sublimation/?backPage=&searchID=1710344356.7963
+Link: https://www.tanitjobs.com/job/610870/styliste-et-modéliste/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Technicien Fluide (Hvac)
-Company: S2nconseil
-Location: Avenue Alain Savary, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1523832/technicien-fluide-hvac/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Webdesigner / Infographiste
-Company: FORESTIA TUNISIE
-Location: Kantaoui, Hammam Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1490548/webdesigner-infographiste/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Chargé·e du Design et de l’Engagement Client
-Company: Estampes Ray
-Location: 18 Avenue Habib Bourguiba, Manouba
-Link: https://www.tanitjobs.com/job/1522212/chargé-e-du-design-et-de-l-engagement-client/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Community Manager / Rédacteur Francophone
-Company: MDN Company
-Location: Zone d'activités Khereddine, Le Kram, Tunisie
-Link: https://www.tanitjobs.com/job/1530432/community-manager-rédacteur-francophone/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Offre de Stage
-Company: Adverto
-Location: Les Berges du Lac 1, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1524774/offre-de-stage/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Responsable marketing
-Company: 4InA technologie
-Location: Technopole Manouba, Manouba, Tunisie
-Link: https://www.tanitjobs.com/job/1466597/responsable-marketing/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Graphic Designer
-Company: C.I.Media
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1521493/graphic-designer/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Graphic Designer
-Company: TITA GROUP
-Location: Route Gremda, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1523862/graphic-designer/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: UI/UX Designer à Sousse
-Company: ADECCO TUNISIE
-Location: Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1497684/ui-ux-designer-à-sousse/?backPage=&searchID=1710344356.7963
-Company Logo: https://www.tanitjobs.com/files/pictures/2022/09/07/Adecco_logo_red.png
-
-Title: Designer Graphique
-Company: PHARMAHEALTH
-Location: Béja, Béja, Tunisie
-Link: https://www.tanitjobs.com/job/1471584/designer-graphique/?backPage=&searchID=1710344356.7963
+Title: Designer graphique
+Company: SYSTEO DIGITAL
+Location: Route Menzel Chaker, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1520994/designer-graphique/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
 Title: Graphic Designer / Community Manager
@@ -100,21 +40,81 @@ Location: Avenue Habib Bourguiba immeuble Topnet 1er etage
 Link: https://www.tanitjobs.com/job/1411888/graphic-designer-community-manager/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Infographiste/Photographe
-Company: almourabi e-learning
-Location: Nabeul, Nabeul, Tunisie
-Link: https://www.tanitjobs.com/job/1518269/infographiste-photographe/?backPage=&searchID=1710344356.7963
+Title: Infographiste
+Company: Clinique de l espoir
+Location: El Menzah , Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1524428/infographiste/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Stagiaire en Infographie 3D
-Company: Ecoweby
+Title: Graphique Designer
+Company: PHARMAHEALTH
+Location: Zone Industrielle , Béja , Tunisie
+Link: https://www.tanitjobs.com/job/1513416/graphique-designer/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Designer Graphique
+Company: Hotel Sahel
+Location: Zone Touristique Skanes, Mnastir, Tunisie
+Link: https://www.tanitjobs.com/job/1513895/designer-graphique/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Assistante Marketing
+Company: BSB-TOYOTA
+Location: La Marsa,Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1524103/assistante-marketing/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: commercial
+Company: Leaders Digital
+Location: Tunisie
+Link: https://www.tanitjobs.com/job/1489317/commercial/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Architecte
+Company: HA
+Location: Centre Urbain Nord, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1521225/architecte/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Designer Graphique
+Company: Siala Pub
+Location: Route El Ain, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1521785/designer-graphique/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Maker Gaphiste
+Company: italian beauty
+Location: Ennasr 2, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1500656/maker-gaphiste/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Un Chef de Projet Marketing Digital Orienté site web,Google Ads,SEO
+Company: Starters United Tunisie
+Location: Centre Urbain Nord, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1529413/un-chef-de-projet-marketing-digital-orienté-site-web-google-ads-seo/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Photographe et Vidéaste
+Company: BEST BUY TUNISIE
+Location: Avenue 5 août, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1517480/photographe-et-vidéaste/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Stage ETE + Formation à Distance
+Company: MSKTEC
+Location: Remote, Tunisie
+Link: https://www.tanitjobs.com/job/1527379/stage-ete-formation-à-distance/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Technicien concepteur en structure métallique
+Company: société REMO
+Location: Utique, Bizerte, Tunisie
+Link: https://www.tanitjobs.com/job/1530766/technicien-concepteur-en-structure-métallique/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Offre de Stage d'Été en Architecture d'Intérieur et Design
+Company: STAMP SOLUTIONS
 Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1418814/stagiaire-en-infographie-3d/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Designer Meubles
-Company: SMTE
-Location: Douar Hicher, Manouba, Tunisie
-Link: https://www.tanitjobs.com/job/1527980/designer-meubles/?backPage=&searchID=1710344356.7963
+Link: https://www.tanitjobs.com/job/1518691/offre-de-stage-d-été-en-architecture-d-intérieur-et-design/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
