@@ -4,83 +4,59 @@ Location: Centre Urbain Nord, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1151117/chargé-e-recrutement-talent-acquisition/?backPage=&searchID=1710344353.1857
 Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/11/logo-18864-20191029-142642.png
 
-Title: Community Manager
-Company: Groupe DE.M.CO
-Location: Route principale entre Moknine & Téboulba
-Link: https://www.tanitjobs.com/job/1479817/community-manager/?backPage=&searchID=1710344353.1857
-Company Logo: https://www.tanitjobs.com/files/pictures/2023/09/19/Groupe.png
+Title: Tech Lead .Net
+Company: Septeo
+Location: Les Berges Du Lac II, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1514935/tech-lead-net/?backPage=&searchID=1710344353.1857
+Company Logo: https://www.tanitjobs.com/files/pictures/2024/02/22/logo-septeo-tunisia-rgb_%281%29_hiztl_horiz-orange-blue.png
 
-Title: Chargé en Digital Marketing
-Company: medivet
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1493905/chargé-en-digital-marketing/?backPage=&searchID=1710344353.1857
+Title: Commercial(e) Francophone (secteur IT) expérimenté(e)
+Company: Orel Services
+Location: Tunisie, Tunisie
+Link: https://www.tanitjobs.com/job/1524972/commercial-e-francophone-secteur-it-expérimenté-e/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Une Cadre Administrative Spécialité en Communication et Marketing
-Company: MATEM
-Location: Route de l'Aeroport Km 4 Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1521915/une-cadre-administrative-spécialité-en-communication-et-marketing/?backPage=&searchID=1710344353.1857
+Title: Inside Sales / Commerciales BtoB Francophone
+Company: Leads Provider
+Location: Manouba, Manouba, Tunisie
+Link: https://www.tanitjobs.com/job/1495156/inside-sales-commerciales-btob-francophone/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Un(e) Comptable et Chargé(e) de Comptes Clients
-Company: Infinity Management
-Location: Les Berges du Lac 1, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1522919/un-e-comptable-et-chargé-e-de-comptes-clients/?backPage=&searchID=1710344353.1857
+Title: Développeur .Net (Confirmé/Senior) (à distance)
+Company: Esolutions
+Location: Tunisie, Tunisie
+Link: https://www.tanitjobs.com/job/1528484/développeur-net-confirmé-senior-à-distance/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Développeur Web PHP/MYSQL
-Company: YOUPTECK
-Location: Technopôle El Gazala, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1520353/développeur-web-php-mysql/?backPage=&searchID=1710344353.1857
+Title: Développeur Expérimenté sur la Plateforme 4D
+Company: Full Remote Factory
+Location: Centre Urbain Nord, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1524725/développeur-expérimenté-sur-la-plateforme-4d/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Senior Functional Consultant
-Company: BFI Groupe
-Location: rue du lac de constance, les berges du lac 1, 1053 Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1516095/senior-functional-consultant/?backPage=&searchID=1710344353.1857
-Company Logo: https://www.tanitjobs.com/files/pictures/2022/09/27/bfi_logo_noir.png
-
-Title: Ingénieur Avant-Vente
-Company: Vneuron
-Location: La Charguia II, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/996704/ingénieur-avant-vente/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Technical Talent Acquisition Specialist
-Company: Vneuron
-Location: La Charguia II, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/700218/technical-talent-acquisition-specialist/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Developpeur .Net Expérimenté
-Company: SIMPLYDESK
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1521127/developpeur-net-expérimenté/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Commercial et Responsable de Point de Vente
-Company: MAG Security
-Location: Radès, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1528528/commercial-et-responsable-de-point-de-vente/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Offre de Stage PFE télétravail : Gestion et Maintenance de VPS chez Contabo
-Company: RIF
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1479087/offre-de-stage-pfe-télétravail-gestion-et-maintenance-de-vps-chez-contabo/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Ingénieur développement C/C++ embarqué
-Company: Soft Objects
-Location: Avenue Yasser Arafet Sahloul
-Link: https://www.tanitjobs.com/job/1526691/ingénieur-développement-c-c-embarqué/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Développeur MERN (React/Nodejs/Mongo) (Grand Tunis)
+Title: Ingénieur d'affaires IT / Commercial IT
 Company: TOP TECH TUNISIE
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1527408/développeur-mern-react-nodejs-mongo-grand-tunis/?backPage=&searchID=1710344353.1857
+Location: Centre Urbain Nord, Tunis, Tunisie.
+Link: https://www.tanitjobs.com/job/1148064/ingénieur-d-affaires-it-commercial-it/?backPage=&searchID=1710344353.1857
 Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/11/logo-18864-20191029-142642.png
+
+Title: Infographiste
+Company: TRAIT D'UNION
+Location: Avenue des Orangers, khezama Est
+Link: https://www.tanitjobs.com/job/1522539/infographiste/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Technicien Fibre Optique
+Company: Trois Chemins
+Location: Sfax, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1513532/technicien-fibre-optique/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Administrateur Linux Unix
+Company: DIGIXER
+Location: Centre Urbain Nord, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1517453/administrateur-linux-unix/?backPage=&searchID=1710344353.1857
+Company Logo: None
 
 Title: Community Manager / Rédacteur Francophone
 Company: MDN Company
@@ -88,16 +64,10 @@ Location: Zone d'activités Khereddine, Le Kram, Tunisie
 Link: https://www.tanitjobs.com/job/1530432/community-manager-rédacteur-francophone/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
-Title: Licencié(e) en informatique de gestion
-Company: PM Consulting
-Location: Zone Pouderière 1 Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1497386/licencié-e-en-informatique-de-gestion/?backPage=&searchID=1710344353.1857
-Company Logo: None
-
-Title: Team Lead PHP Senior
-Company: Docapost Applicam
-Location: Parc Technologique El Ghazal ,Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1522802/team-lead-php-senior/?backPage=&searchID=1710344353.1857
+Title: Tech Lead | Full Stack Engineer
+Company: GTI
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1461450/tech-lead-full-stack-engineer/?backPage=&searchID=1710344353.1857
 Company Logo: None
 
 Title: IT Applications Specialist
@@ -106,15 +76,45 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1438073/it-applications-specialist/?backPage=&searchID=1710344353.1857
 Company Logo: https://www.tanitjobs.com/files/pictures/2021/06/15/LOGO.png
 
-Title: Administrateur Réseau et Système Informaticien
-Company: Centre Régional de formation à la sureté de l'Aviation de l'OACI
-Location: 7 , av Taha Hussein , Tunis
-Link: https://www.tanitjobs.com/job/1521930/administrateur-réseau-et-système-informaticien/?backPage=&searchID=1710344353.1857
-Company Logo: https://www.tanitjobs.com/files/pictures/2023/01/18/PANCARTE_%284%29.png
+Title: technicien pour un SAV
+Company: ORAL CONCEPT GROUP
+Location: Centre Urbain Nord, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1498807/technicien-pour-un-sav/?backPage=&searchID=1710344353.1857
+Company Logo: None
 
-Title: IT Specialist : Data Systems Analyst & Network Specialist
-Company: Matrixcel Business
-Location: Sousse
-Link: https://www.tanitjobs.com/job/1523663/it-specialist-data-systems-analyst-network-specialist/?backPage=&searchID=1710344353.1857
+Title: Offre de Stage PFE télétravail : Gestion et Maintenance de VPS chez Contabo
+Company: RIF
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1479087/offre-de-stage-pfe-télétravail-gestion-et-maintenance-de-vps-chez-contabo/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Ingénieur Développement Python Confirmé F/H
+Company: Soft Objects
+Location: Avenue Yasser Arafet Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1523324/ingénieur-développement-python-confirmé-f-h/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Chargé(e) Recrutement
+Company: Infopro digital
+Location: La Charguia II, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1516069/chargé-e-recrutement/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Expert(e) SEO/SEA
+Company: BIZBOOSTER
+Location: Manar 2, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1526108/expert-e-seo-sea/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Développeur Laravel Intermédiaire (à Djerba)
+Company: Otospex Solution
+Location: Djerba, Médenine, Tunisie
+Link: https://www.tanitjobs.com/job/1514954/développeur-laravel-intermédiaire-à-djerba/?backPage=&searchID=1710344353.1857
+Company Logo: None
+
+Title: Commercial et Responsable de Point de Vente
+Company: MAG Security
+Location: Radès, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1528528/commercial-et-responsable-de-point-de-vente/?backPage=&searchID=1710344353.1857
 Company Logo: None
 

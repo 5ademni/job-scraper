@@ -10,111 +10,111 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1229126/ingénieur-technico-commercial-produits-électriques/?backPage=&searchID=1710344364.8323
 Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/04/logo_rhproplus.png
 
-Title: Ingénieur Génie Mécanique
-Company: TIS CIRCUITS
-Location: Ben Arous, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1246665/ingénieur-génie-mécanique/?backPage=&searchID=1710344364.8323
+Title: Ouvrier/ Aide Magasin
+Company: Z2S ELECTRONIC
+Location: Mégrine, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1517414/ouvrier-aide-magasin/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien de Maintenance Industrielle
-Company: confiserie le Bustan
-Location: Route Tunis km 12, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1342011/technicien-de-maintenance-industrielle/?backPage=&searchID=1710344364.8323
+Title: Commercial
+Company: VITEC
+Location: El Menzah 5, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1513519/commercial/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Magasinier
-Company: Last Price
-Location: El Manar 2 , Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1476773/magasinier/?backPage=&searchID=1710344364.8323
-Company Logo: None
+Title: Key Account Manager
+Company: ADECCO TUNISIE
+Location: Les Berges du Lac 1, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1514651/key-account-manager/?backPage=&searchID=1710344364.8323
+Company Logo: https://www.tanitjobs.com/files/pictures/2022/09/07/Adecco_logo_red.png
 
-Title: Chef d’Equipe Electrique
+Title: Responsable Maintenance
 Company: ANONYME
-Location: Zaghouan, Zaghouan, Tunisie
-Link: https://www.tanitjobs.com/job/1509980/chef-d-equipe-electrique/?backPage=&searchID=1710344364.8323
+Location: Béja, Béja , Tunisie
+Link: https://www.tanitjobs.com/job/1488733/responsable-maintenance/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Mécanicien d'Engins de Chantier Qualifié
-Company: SIPS
-Location: Tataouine, Tunisie
-Link: https://www.tanitjobs.com/job/1256611/mécanicien-d-engins-de-chantier-qualifié/?backPage=&searchID=1710344364.8323
+Title: Commercial et Responsable de Point de Vente
+Company: MAG Security
+Location: Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1528520/commercial-et-responsable-de-point-de-vente/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Responsable Maintenance - Machines lourdes - confirmé
-Company: eSPACEs Consulting
-Location: La Charguia II, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1489601/responsable-maintenance-machines-lourdes-confirmé/?backPage=&searchID=1710344364.8323
+Title: Electronics Engineer
+Company: LRT
+Location: Zone Industrielle El Mghira, Fouchana, Ben arous, Tunisie
+Link: https://www.tanitjobs.com/job/1395487/electronics-engineer/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Un(e) Régleur(euse) sur Presse Mécanique
-Company: ROLCAR TUNISIA
-Location: Nabeul, Nabeul, Tunisie
-Link: https://www.tanitjobs.com/job/1525539/un-e-régleur-euse-sur-presse-mécanique/?backPage=&searchID=1710344364.8323
+Title: Technicien Ligne (CMS)
+Company: Electronic Tunisi System
+Location: Zone Industrielle Ben Arous, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1521375/technicien-ligne-cms/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien Climatisation
-Company: Enairgo
-Location: Nouvelle Médina, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1320550/technicien-climatisation/?backPage=&searchID=1710344364.8323
+Title: Technicien Test (H/F)
+Company: ATEMS
+Location: Soliman, Nabeul, Tunisie
+Link: https://www.tanitjobs.com/job/1454599/technicien-test-h-f/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: 03 Techniciens Supérieurs en Maintenance
-Company: SA
+Title: Gestionnaire de Parc Assemblage-Contrôle Electrique
+Company: Groupe Elloumi
 Location: Kairouan, Kairouan, Tunisie
-Link: https://www.tanitjobs.com/job/1454929/03-techniciens-supérieurs-en-maintenance/?backPage=&searchID=1710344364.8323
+Link: https://www.tanitjobs.com/job/1530124/gestionnaire-de-parc-assemblage-contrôle-electrique/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien en maintenance informatique
-Company: A2soft
+Title: BTS Technicien de Maintenance Industrielle ( Homme )
+Company: CPL Jobs Tunisia
+Location: Soliman, Nabeul, Tunisie
+Link: https://www.tanitjobs.com/job/1527507/bts-technicien-de-maintenance-industrielle-homme/?backPage=&searchID=1710344364.8323
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/CPL-Jobs-Tunisia.png
+
+Title: Développeur Odoo
+Company: Vega Group
+Location: SOUSSE
+Link: https://www.tanitjobs.com/job/1077005/développeur-odoo/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Technicien pour SAV Téléphonie Mobile à Sfax
+Company: RETECH SOLUTIONS
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1502389/technicien-pour-sav-téléphonie-mobile-à-sfax/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Technicien Diagnostic Automobile
+Company: best academy formation
+Location: Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1520870/technicien-diagnostic-automobile/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Technicien / Technicien supérieur
+Company: TUTRAP
+Location: Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1523572/technicien-technicien-supérieur/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Conseiller Commercial en Electroménager
+Company: Maalej Audio
+Location: Avenue 5 Août, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1529271/conseiller-commercial-en-electroménager/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Chargé Développement - Activité en Allemand
+Company: SEGULA Technologies
 Location: Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1375418/technicien-en-maintenance-informatique/?backPage=&searchID=1710344364.8323
+Link: https://www.tanitjobs.com/job/1503207/chargé-développement-activité-en-allemand/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien de Production
-Company: STE NEWTECH
-Location: Zone industrielle Ghraba, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1529659/technicien-de-production/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Acheteur Commodités et Projets
-Company: Asteelflash Tunisie
-Location: La Soukra, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1523989/acheteur-commodités-et-projets/?backPage=&searchID=1710344364.8323
+Title: Responsable Technique
+Company: BE CLOSE PROTECTION
+Location: Immeuble 9, Rue Mohamed Ali Annabi, Tunis 1073
+Link: https://www.tanitjobs.com/job/1328038/responsable-technique/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
 Title: Ingénieur Suivi Fournisseur Cybersécurité Automobile
 Company: Serma International
 Location: Technopole El Ghazala, Ariana, Tunisie
 Link: https://www.tanitjobs.com/job/1515476/ingénieur-suivi-fournisseur-cybersécurité-automobile/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Technicien Supérieur en Maintenance
-Company: Groupe industriel
-Location: Route de Tunis, Nabeul, Tunisie
-Link: https://www.tanitjobs.com/job/1493758/technicien-supérieur-en-maintenance/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Assistant(e) Technique
-Company: Africom Services
-Location: Zone industrielle lot 88 chotrana 2 Ariana
-Link: https://www.tanitjobs.com/job/1315182/assistant-e-technique/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Technicien De Production
-Company: UNIMED
-Location: Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1320435/technicien-de-production/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Electricity Manager
-Company: Desert Joy
-Location: Gabès, Gabès, Tunisie
-Link: https://www.tanitjobs.com/job/1530609/electricity-manager/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Ingénieur Qualité Production
-Company: Asteelflash Tunisie
-Location: La Soukra, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1523996/ingénieur-qualité-production/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
