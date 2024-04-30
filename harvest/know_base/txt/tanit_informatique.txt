@@ -1,8 +1,74 @@
+Title: Linux Support Engineer
+Company: DTS
+Location: Cité El Ghazala ,Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1522780/linux-support-engineer/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/DTS-Logo.png
+
+Title: Assistantes Administratives et Commerciales
+Company: CIFOP-IMS
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1421021/assistantes-administratives-et-commerciales/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/Cifop-Ims_%281%29.png
+
+Title: Bilingual Customer Care Agent – French & English Speaking
+Company: Assist Digital
+Location: Technopole Elghazela, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/788440/bilingual-customer-care-agent-french-english-speaking/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/Logo_AssistDigital2020_Black.png
+
+Title: Assistante Commerciale
+Company: Tanitoss
+Location: Les berges du Lac 1 , Tunis , Tunisie
+Link: https://www.tanitjobs.com/job/1495435/assistante-commerciale/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
+
 Title: Senior .Net Developer (Ingénieur Confirmé)
 Company: CED
 Location: La Charguia I, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1272446/senior-net-developer-ingénieur-confirmé/?backPage=&searchID=1710344373.4958
 Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/0_32.png
+
+Title: Assistante Commerciale
+Company: Tanitoss
+Location: Les Berges du Lac 1, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1513019/assistante-commerciale/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
+
+Title: Analyste de Données
+Company: Ben Yedder consulting
+Location: Les Berges du Lac , Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1527978/analyste-de-données/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/06/15/LOGO.png
+
+Title: Web Designer
+Company: Tanitoss
+Location: Les Berges du Lac, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1513016/web-designer/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
+
+Title: Graphique Designer / Web Designer
+Company: Tanitoss
+Location: El Mourouj, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1529781/graphique-designer-web-designer/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
+
+Title: Développeur Symfony Senior
+Company: TF TELECONCEPTION
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1513651/développeur-symfony-senior/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2022/01/11/LOGO_1.png
+
+Title: Business Developer IT
+Company: Move2Cloud
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1522190/business-developer-it/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2023/01/16/Color_logo_with_background.png
+
+Title: Technicien Support (F/H)
+Company: Auxiliance
+Location: Mutuelle ville, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1519298/technicien-support-f-h/?backPage=&searchID=1710344373.4958
+Company Logo: https://www.tanitjobs.com/files/pictures/2023/03/30/AGS_GROUP.png
 
 Title: Senior Test Automation Engineer
 Company: CED
@@ -16,105 +82,39 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1501971/responsable-des-ressources-humaines/?backPage=&searchID=1710344373.4958
 Company Logo: https://www.tanitjobs.com/files/pictures/2022/06/20/logo-fi-sf.png
 
-Title: Bilingual Customer Care Agent – French & English Speaking
-Company: Assist Digital
-Location: Technopole Elghazela, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/788440/bilingual-customer-care-agent-french-english-speaking/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/Logo_AssistDigital2020_Black.png
-
-Title: Graphique Designer / Web Designer
-Company: Tanitoss
-Location: El Mourouj, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1529781/graphique-designer-web-designer/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
-
-Title: Web Designer
-Company: Tanitoss
-Location: Les Berges du Lac, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1513016/web-designer/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
-
-Title: Assistante Commerciale
-Company: Tanitoss
-Location: Les berges du Lac 1 , Tunis , Tunisie
-Link: https://www.tanitjobs.com/job/1495435/assistante-commerciale/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
-
-Title: Développeur Symfony Senior
-Company: TF TELECONCEPTION
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1513651/développeur-symfony-senior/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2022/01/11/LOGO_1.png
-
 Title: Senior Front-end Angular Developer
 Company: CED
 Location: La Charguia I, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1271452/senior-front-end-angular-developer/?backPage=&searchID=1710344373.4958
 Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/0_32.png
 
-Title: Technicien Support (F/H)
-Company: Auxiliance
-Location: Mutuelle ville, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1519298/technicien-support-f-h/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2023/03/30/AGS_GROUP.png
-
-Title: Assistante Commerciale
-Company: Tanitoss
-Location: Les Berges du Lac 1, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1513019/assistante-commerciale/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
-
 Title: Business Developer IT
-Company: Move2Cloud
+Company: ALTAN Consulting
 Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1522190/business-developer-it/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2023/01/16/Color_logo_with_background.png
+Link: https://www.tanitjobs.com/job/1522293/business-developer-it/?backPage=&searchID=1710344373.4958
+Company Logo: None
 
-Title: Linux Support Engineer
-Company: DTS
-Location: Cité El Ghazala ,Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1522780/linux-support-engineer/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/DTS-Logo.png
+Title: Ingénieur Suivi Fournisseur Cybersécurité Automobile
+Company: Serma International
+Location: Technopole El Ghazala, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1515476/ingénieur-suivi-fournisseur-cybersécurité-automobile/?backPage=&searchID=1710344373.4958
+Company Logo: None
 
-Title: Analyste de Données
-Company: Ben Yedder consulting
-Location: Les Berges du Lac , Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1527978/analyste-de-données/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/06/15/LOGO.png
+Title: Gestionnaire Appels d’offres
+Company: Smart Conseil
+Location: Technopôle El Gazala, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1434364/gestionnaire-appels-d-offres/?backPage=&searchID=1710344373.4958
+Company Logo: None
 
-Title: Assistantes Administratives et Commerciales
-Company: CIFOP-IMS
+Title: Graphiste
+Company: Vinci SOC
 Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1421021/assistantes-administratives-et-commerciales/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/Cifop-Ims_%281%29.png
-
-Title: Agent Recouvrement
-Company: CHIFCO
-Location: Zone d'activités Khereddine, Le Kram, Tunisie
-Link: https://www.tanitjobs.com/job/1513464/agent-recouvrement/?backPage=&searchID=1710344373.4958
+Link: https://www.tanitjobs.com/job/1527777/graphiste/?backPage=&searchID=1710344373.4958
 Company Logo: None
 
-Title: Développeur MERN (React/Nodejs/Mongo) (Grand Tunis)
-Company: TOP TECH TUNISIE
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1527408/développeur-mern-react-nodejs-mongo-grand-tunis/?backPage=&searchID=1710344373.4958
-Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/11/logo-18864-20191029-142642.png
-
-Title: Développeur Flutter
-Company: PM Consulting
-Location: Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1530273/développeur-flutter/?backPage=&searchID=1710344373.4958
-Company Logo: None
-
-Title: Product Owner DevOps
-Company: Databiz
-Location: belvédère, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1405621/product-owner-devops/?backPage=&searchID=1710344373.4958
-Company Logo: None
-
-Title: Développeur WordPress/PrestaShop
-Company: Zahou-Tech
-Location: Immeuble Zitouna Palace, Rue Omar Kaddeh,Tunis
-Link: https://www.tanitjobs.com/job/1520898/développeur-wordpress-prestashop/?backPage=&searchID=1710344373.4958
+Title: Un Développeur Backend Node.js et Ingénieur AWS Cloud
+Company: Web-Graphique
+Location: Sfax El Jadida, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1517530/un-développeur-backend-node-js-et-ingénieur-aws-cloud/?backPage=&searchID=1710344373.4958
 Company Logo: None
 

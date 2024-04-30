@@ -1,15 +1,3 @@
-Title: Responsable des Ressources Humaines
-Company: FRENCHINNOV
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1501971/responsable-des-ressources-humaines/?backPage=&searchID=1710344349.2239
-Company Logo: https://www.tanitjobs.com/files/pictures/2022/06/20/logo-fi-sf.png
-
-Title: Graphique Designer / Web Designer
-Company: Tanitoss
-Location: El Mourouj, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1529781/graphique-designer-web-designer/?backPage=&searchID=1710344349.2239
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
-
 Title: Assistantes Administratives et Commerciales
 Company: CIFOP-IMS
 Location: Tunis, Tunis, Tunisie
@@ -22,99 +10,111 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1522190/business-developer-it/?backPage=&searchID=1710344349.2239
 Company Logo: https://www.tanitjobs.com/files/pictures/2023/01/16/Color_logo_with_background.png
 
-Title: Ingénieur QA Technico-Fonctionnel Senior - Tunis
-Company: NeoXam
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1493639/ingénieur-qa-technico-fonctionnel-senior-tunis/?backPage=&searchID=1710344349.2239
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/neoxam.png
+Title: Graphique Designer / Web Designer
+Company: Tanitoss
+Location: El Mourouj, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1529781/graphique-designer-web-designer/?backPage=&searchID=1710344349.2239
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
 
-Title: Quality Product/Process Supervisor
+Title: Responsable des Ressources Humaines
+Company: FRENCHINNOV
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1501971/responsable-des-ressources-humaines/?backPage=&searchID=1710344349.2239
+Company Logo: https://www.tanitjobs.com/files/pictures/2022/06/20/logo-fi-sf.png
+
+Title: Développeur WordPress
+Company: SIRIUS CALL CENTER
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1524874/développeur-wordpress/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Stage PFE Data Analyst H/F
+Company: MDN Company
+Location: Zone d'activités Khereddine, Le Kram, Tunisie
+Link: https://www.tanitjobs.com/job/1532047/stage-pfe-data-analyst-h-f/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Financier
+Company: Inter
+Location: Sfax, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1491671/financier/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: CONTROLEUR DIMENSIONNEL H/F
+Company: AD mecanique
+Location: ZI Mghira
+Link: https://www.tanitjobs.com/job/1519224/controleur-dimensionnel-h-f/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Piping Engineer
+Company: eagle Ayed group EAG
+Location: Les Berges du Lac 2, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1515656/piping-engineer/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Développeur Mobile Flutter H/F
+Company: Logawin
+Location: Rue du Lac Victoria Les Berges du Lac , Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1514746/développeur-mobile-flutter-h-f/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Industrial Performance Specialist
 Company: Coficab Group
-Location: Medjez el-Bab, Béja, Tunisie
-Link: https://www.tanitjobs.com/job/1411994/quality-product-process-supervisor/?backPage=&searchID=1710344349.2239
+Location: Sidi Hassine Sedjoumi, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1485871/industrial-performance-specialist/?backPage=&searchID=1710344349.2239
 Company Logo: https://www.tanitjobs.com/files/pictures/2023/09/19/coficap_groupe.png
 
-Title: Commercial - Secteur Intégration Réseaux
-Company: STE NETCOM
-Location: Rue de la Bourse Les Berges du Lac 2, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1515513/commercial-secteur-intégration-réseaux/?backPage=&searchID=1710344349.2239
+Title: Plant Manager ( H/F)
+Company: HR House International
+Location: Bizerte, Bizerte, Tunisie
+Link: https://www.tanitjobs.com/job/1531789/plant-manager-h-f/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Responsable SAV
-Company: confidentiel
-Location: Lafayette, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1018364/responsable-sav/?backPage=&searchID=1710344349.2239
+Title: Designer Graphique
+Company: AISYSNEXT
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1520913/designer-graphique/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: D. Développement
-Company: power me
+Title: Laravel Developer
+Company: DeepAI
 Location: Les Berges du Lac , Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1484323/d-développement/?backPage=&searchID=1710344349.2239
+Link: https://www.tanitjobs.com/job/1522323/laravel-developer/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Responsable Maintenances
-Company: STIB Tunisie
-Location: Zone Industrielle El Mghira, Fouchana, Ben arous, Tunisie
-Link: https://www.tanitjobs.com/job/1380204/responsable-maintenances/?backPage=&searchID=1710344349.2239
+Title: Ingénieur Electrique
+Company: XIAN ELECTRIC ENGINEERING COMPANY(XEEC)
+Location: Les Berges du Lac 2, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1522837/ingénieur-electrique/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Chargé de Référencement Web
-Company: DIGITAL GROUP PERFORMANCE
-Location: Les Jardins du Lac, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1296789/chargé-de-référencement-web/?backPage=&searchID=1710344349.2239
+Title: Ingénieur Génie Civil
+Company: GETEC
+Location: Gafsa, Gafsa, Tunisie
+Link: https://www.tanitjobs.com/job/1523069/ingénieur-génie-civil/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Développeur(se) Symfony/WordPress
-Company: Synexta
-Location: Avenue de l'UMA, La Soukra, Tunisie
-Link: https://www.tanitjobs.com/job/1527478/développeur-se-symfony-wordpress/?backPage=&searchID=1710344349.2239
+Title: Ingénieur en développement Java Senior
+Company: ADVISUS (By NDC)
+Location: France, France
+Link: https://www.tanitjobs.com/job/1357788/ingénieur-en-développement-java-senior/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Consultant SharePoint Senior
-Company: Alight MEA
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/817494/consultant-sharepoint-senior/?backPage=&searchID=1710344349.2239
+Title: Technico-commercial - Commerce des fournitures Industrielles
+Company: Experway
+Location: Boumhel, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1510935/technico-commercial-commerce-des-fournitures-industrielles/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Responsable Commercial
-Company: Gamco Energy
-Location: Nabeul, Nabeul, Tunisie
-Link: https://www.tanitjobs.com/job/1525482/responsable-commercial/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Responsable Référencement Web SEO
-Company: DIGITAL GROUP PERFORMANCE
-Location: Les Berges du Lac 3, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/938490/responsable-référencement-web-seo/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Chef de Carrière et Exploitation d'Un Gisement
-Company: SIPS
-Location: Tataouine,Tataouine, Tunisie
-Link: https://www.tanitjobs.com/job/1527068/chef-de-carrière-et-exploitation-d-un-gisement/?backPage=&searchID=1710344349.2239
+Title: SRE / SecOps Engineer
+Company: Vneuron
+Location: La Charguia I, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1527559/sre-secops-engineer/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
 Title: Développeur Android avec compétences en Next.js et Django
 Company: Cockpit
 Location: Route Mahdia , Sfax, Tunisie
 Link: https://www.tanitjobs.com/job/1527133/développeur-android-avec-compétences-en-next-js-et-django/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Ingénieur Génie Civil : Etudes
-Company: Groupe Hammami
-Location: Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1509729/ingénieur-génie-civil-etudes/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Ingénieur Électromécanique
-Company: SOCIETE COMMERCIALE
-Location: Ben Arous, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1514080/ingénieur-électromécanique/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Responsable Division Etudes EXE en Electricité CFO-CFA
-Company: KAIROS
-Location: Ennasr 1, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1530761/responsable-division-etudes-exe-en-electricité-cfo-cfa/?backPage=&searchID=1710344349.2239
 Company Logo: None
 

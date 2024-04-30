@@ -10,40 +10,70 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1229126/ingénieur-technico-commercial-produits-électriques/?backPage=&searchID=1710344364.8323
 Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/04/logo_rhproplus.png
 
-Title: Ouvrier/ Aide Magasin
-Company: Z2S ELECTRONIC
-Location: Mégrine, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1517414/ouvrier-aide-magasin/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Commercial
-Company: VITEC
-Location: El Menzah 5, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1513519/commercial/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Key Account Manager
-Company: ADECCO TUNISIE
-Location: Les Berges du Lac 1, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1514651/key-account-manager/?backPage=&searchID=1710344364.8323
-Company Logo: https://www.tanitjobs.com/files/pictures/2022/09/07/Adecco_logo_red.png
-
 Title: Responsable Maintenance
-Company: ANONYME
-Location: Béja, Béja , Tunisie
-Link: https://www.tanitjobs.com/job/1488733/responsable-maintenance/?backPage=&searchID=1710344364.8323
+Company: SOCIETE SIG 2
+Location: Route de Gabes, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1520831/responsable-maintenance/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Commercial et Responsable de Point de Vente
-Company: MAG Security
-Location: Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1528520/commercial-et-responsable-de-point-de-vente/?backPage=&searchID=1710344364.8323
+Title: Technicien Supérieur en Maintenance
+Company: Groupe industriel
+Location: Route de Tunis, Nabeul, Tunisie
+Link: https://www.tanitjobs.com/job/1493758/technicien-supérieur-en-maintenance/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Electronics Engineer
-Company: LRT
-Location: Zone Industrielle El Mghira, Fouchana, Ben arous, Tunisie
-Link: https://www.tanitjobs.com/job/1395487/electronics-engineer/?backPage=&searchID=1710344364.8323
+Title: Vendeuse Polyvalente Electronique Robotique
+Company: Souilah Electronique
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1410062/vendeuse-polyvalente-electronique-robotique/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Technicien en Maintenance Electronique
+Company: IP SYSTEME TUNISIE
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1513506/technicien-en-maintenance-electronique/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Warehouse assistant
+Company: ANT Precision
+Location: Ben Arous, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1365262/warehouse-assistant/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Un(e) Régleur(euse) sur Presse Mécanique
+Company: ROLCAR TUNISIA
+Location: Nabeul, Nabeul, Tunisie
+Link: https://www.tanitjobs.com/job/1525539/un-e-régleur-euse-sur-presse-mécanique/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Responsable Maintenance Electrique
+Company: ALMES
+Location: Zone Industrielle Mateur , Bizerte, Tunisie
+Link: https://www.tanitjobs.com/job/1523988/responsable-maintenance-electrique/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Chargé Développement
+Company: SEGULA Technologies
+Location: Sfax, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1127495/chargé-développement/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Assistant(e) Technique
+Company: Africom Services
+Location: Zone industrielle lot 88 chotrana 2 Ariana
+Link: https://www.tanitjobs.com/job/1315182/assistant-e-technique/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Mécanicien d'Engins de Chantier Qualifié
+Company: SIPS
+Location: Tataouine, Tunisie
+Link: https://www.tanitjobs.com/job/1256611/mécanicien-d-engins-de-chantier-qualifié/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Consultant ERP / Gestion de la production
+Company: Vega Group
+Location: Zone d'activités Khereddine, Le Kram, Tunisie
+Link: https://www.tanitjobs.com/job/1500111/consultant-erp-gestion-de-la-production/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
 Title: Technicien Ligne (CMS)
@@ -52,69 +82,39 @@ Location: Zone Industrielle Ben Arous, Ben Arous, Tunisie
 Link: https://www.tanitjobs.com/job/1521375/technicien-ligne-cms/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien Test (H/F)
-Company: ATEMS
-Location: Soliman, Nabeul, Tunisie
-Link: https://www.tanitjobs.com/job/1454599/technicien-test-h-f/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Gestionnaire de Parc Assemblage-Contrôle Electrique
-Company: Groupe Elloumi
-Location: Kairouan, Kairouan, Tunisie
-Link: https://www.tanitjobs.com/job/1530124/gestionnaire-de-parc-assemblage-contrôle-electrique/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
 Title: BTS Technicien de Maintenance Industrielle ( Homme )
 Company: CPL Jobs Tunisia
 Location: Soliman, Nabeul, Tunisie
 Link: https://www.tanitjobs.com/job/1527507/bts-technicien-de-maintenance-industrielle-homme/?backPage=&searchID=1710344364.8323
 Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/CPL-Jobs-Tunisia.png
 
-Title: Développeur Odoo
-Company: Vega Group
-Location: SOUSSE
-Link: https://www.tanitjobs.com/job/1077005/développeur-odoo/?backPage=&searchID=1710344364.8323
+Title: Ingénieur Electrique ou Electronique
+Company: AFRICA COMPANY
+Location: Sfax, Sfax
+Link: https://www.tanitjobs.com/job/1526580/ingénieur-electrique-ou-electronique/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien pour SAV Téléphonie Mobile à Sfax
-Company: RETECH SOLUTIONS
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1502389/technicien-pour-sav-téléphonie-mobile-à-sfax/?backPage=&searchID=1710344364.8323
+Title: Magasinier
+Company: Last Price
+Location: El Manar 2 , Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1476773/magasinier/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien Diagnostic Automobile
-Company: best academy formation
-Location: Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1520870/technicien-diagnostic-automobile/?backPage=&searchID=1710344364.8323
+Title: Technicien maintenance - Junior
+Company: eSPACEs Consulting
+Location: La Charguia II, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1489609/technicien-maintenance-junior/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien / Technicien supérieur
-Company: TUTRAP
-Location: Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1523572/technicien-technicien-supérieur/?backPage=&searchID=1710344364.8323
+Title: Acheteur
+Company: TIS CIRCUITS
+Location: Ben Arous, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1398850/acheteur/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Conseiller Commercial en Electroménager
-Company: Maalej Audio
-Location: Avenue 5 Août, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1529271/conseiller-commercial-en-electroménager/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Chargé Développement - Activité en Allemand
-Company: SEGULA Technologies
-Location: Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1503207/chargé-développement-activité-en-allemand/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Responsable Technique
-Company: BE CLOSE PROTECTION
-Location: Immeuble 9, Rue Mohamed Ali Annabi, Tunis 1073
-Link: https://www.tanitjobs.com/job/1328038/responsable-technique/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Ingénieur Suivi Fournisseur Cybersécurité Automobile
-Company: Serma International
-Location: Technopole El Ghazala, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1515476/ingénieur-suivi-fournisseur-cybersécurité-automobile/?backPage=&searchID=1710344364.8323
+Title: Leader ADV
+Company: TIS CIRCUITS
+Location: Zone Industrielle Ben Arous, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1502444/leader-adv/?backPage=&searchID=1710344364.8323
 Company Logo: None
 

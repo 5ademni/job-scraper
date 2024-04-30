@@ -1,8 +1,8 @@
-Title: Bilingual Customer Care Agent – French & English Speaking
-Company: Assist Digital
-Location: Technopole Elghazela, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/788440/bilingual-customer-care-agent-french-english-speaking/?backPage=&searchID=1710344354.4138
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/Logo_AssistDigital2020_Black.png
+Title: Téléopérateurs / Téléopératrices
+Company: AT CONTACT
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1511396/téléopérateurs-téléopératrices/?backPage=&searchID=1710344354.4138
+Company Logo: https://www.tanitjobs.com/files/pictures/2024/03/29/Nouveau_Logo_AT_Contact_2024.png
 
 Title: Télévendeurs Téléphonie BtoC
 Company: Premiumcom Group
@@ -10,41 +10,11 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1525641/télévendeurs-téléphonie-btoc/?backPage=&searchID=1710344354.4138
 Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/25/PremiumGroup.png
 
-Title: Développeur Front End - GlobalNet
-Company: 3S
-Location: Charguia
-Link: https://www.tanitjobs.com/job/1514288/développeur-front-end-globalnet/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Chef d'atelier
-Company: NATECH
-Location: Ariana, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1529344/chef-d-atelier/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Techniciens de Support
-Company: Magic Online
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/952393/techniciens-de-support/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Technicien IT
-Company: Société française
-Location: Avenue de l'Euro Les berges du Lac 2
-Link: https://www.tanitjobs.com/job/1521031/technicien-it/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Téléconseiller Spécialisé en Prise de Rendez-Vous (H/F)
-Company: PRAECONIS
-Location: 16 Rue de Syrie, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1400570/téléconseiller-spécialisé-en-prise-de-rendez-vous-h-f/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Formation+ Emploi Assure
-Company: TMK Services
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1272491/formation-emploi-assure/?backPage=&searchID=1710344354.4138
-Company Logo: None
+Title: Bilingual Customer Care Agent – French & English Speaking
+Company: Assist Digital
+Location: Technopole Elghazela, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/788440/bilingual-customer-care-agent-french-english-speaking/?backPage=&searchID=1710344354.4138
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/Logo_AssistDigital2020_Black.png
 
 Title: Client IT Support Engineer
 Company: Vneuron
@@ -52,22 +22,34 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1527541/client-it-support-engineer/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Des Débutants
-Company: TMK Services
-Location: Lafayette, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1439368/des-débutants/?backPage=&searchID=1710344354.4138
+Title: Responsable back Office Revendeurs - Hexabyte
+Company: 3S
+Location: El Menzah 1, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1514271/responsable-back-office-revendeurs-hexabyte/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Chargé Commercial
-Company: Tunisia Trading Technologies
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1410150/chargé-commercial/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Télévendeur BTOB
-Company: BSHOPER
+Title: Commercial Téléphonie
+Company: 2ITELECOM
 Location: Tunisie, Tunisie
-Link: https://www.tanitjobs.com/job/1503149/télévendeur-btob/?backPage=&searchID=1710344354.4138
+Link: https://www.tanitjobs.com/job/1220137/commercial-téléphonie/?backPage=&searchID=1710344354.4138
+Company Logo: None
+
+Title: Assistante Commerciale
+Company: CAEI
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1514062/assistante-commerciale/?backPage=&searchID=1710344354.4138
+Company Logo: None
+
+Title: Administrateur Système Linux
+Company: Magic Online
+Location: Immeuble Cercle des bureaux, bureau 2-8 2éme Etage, Centre Urbain Nord, Tunis
+Link: https://www.tanitjobs.com/job/1527951/administrateur-système-linux/?backPage=&searchID=1710344354.4138
+Company Logo: None
+
+Title: Téléopératrices / Téléopérateurs Italien
+Company: Terminal & Com
+Location: La Charguia II, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1526950/téléopératrices-téléopérateurs-italien/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
 Title: Ingénieur Génie Mécanique
@@ -76,45 +58,63 @@ Location: Ariana, Ariana, Tunisie
 Link: https://www.tanitjobs.com/job/1529368/ingénieur-génie-mécanique/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Garmin Sales Specialist ( SmartWatch)
-Company: Progress RH Tunisie
-Location: Grand Tunis
-Link: https://www.tanitjobs.com/job/1526553/garmin-sales-specialist-smartwatch/?backPage=&searchID=1710344354.4138
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/Progress-RH.png
-
-Title: Développeur PHP
-Company: Leads Provider
-Location: Manouba, Manouba, Tunisie
-Link: https://www.tanitjobs.com/job/1530260/développeur-php/?backPage=&searchID=1710344354.4138
+Title: Commercial - Secteur Intégration Réseaux
+Company: STE NETCOM
+Location: Rue de la Bourse Les Berges du Lac 2, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1515513/commercial-secteur-intégration-réseaux/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Comptable F
-Company: Netmarketing
-Location: La Soukra, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1500326/comptable-f/?backPage=&searchID=1710344354.4138
+Title: Technico-Commercial (zone Gafsa)
+Company: Digital Retail
+Location: Montplaisir, Tunis
+Link: https://www.tanitjobs.com/job/1526808/technico-commercial-zone-gafsa/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Des Agents pour la réception d’appels
-Company: ALTASERVICE
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1527015/des-agents-pour-la-réception-d-appels/?backPage=&searchID=1710344354.4138
+Title: Conseiller(ère) Francophone
+Company: Secrétariat médical
+Location: Les Berges du Lac 2, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1532025/conseiller-ère-francophone/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Agent de Centre d'Appel
-Company: TMK Services
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/579881/agent-de-centre-d-appel/?backPage=&searchID=1710344354.4138
+Title: Expert(e) SEO/SEA
+Company: BIZBOOSTER
+Location: Manar 2, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1526108/expert-e-seo-sea/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Inside Sales / Commerciales BtoB Francophone
-Company: Leads Provider
-Location: Manouba, Manouba, Tunisie
-Link: https://www.tanitjobs.com/job/1495156/inside-sales-commerciales-btob-francophone/?backPage=&searchID=1710344354.4138
+Title: Standardiste (Sousse)
+Company: GAMAPPS
+Location: Avenue Léopold Senghor, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1521463/standardiste-sousse/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Chargé(e) Clientèle Mahdia - Hexabyte
+Title: Technicien Support N1
+Company: Xpertcall
+Location: Charguia, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1017756/technicien-support-n1/?backPage=&searchID=1710344354.4138
+Company Logo: None
+
+Title: Téléconseillers Techniques - Déploiement
+Company: Xpertcall
+Location: La Charguia I, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1278441/téléconseillers-techniques-déploiement/?backPage=&searchID=1710344354.4138
+Company Logo: None
+
+Title: Destinateur Projeteur
+Company: NATECH
+Location: Ariana, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1529360/destinateur-projeteur/?backPage=&searchID=1710344354.4138
+Company Logo: None
+
+Title: Chargé(e) Clientèle GlobalNet (Sousse)
 Company: 3S
-Location: Mahdia,Mahdia, Tunisie
-Link: https://www.tanitjobs.com/job/1514233/chargé-e-clientèle-mahdia-hexabyte/?backPage=&searchID=1710344354.4138
+Location: Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1524766/chargé-e-clientèle-globalnet-sousse/?backPage=&searchID=1710344354.4138
+Company Logo: None
+
+Title: Intégrateur Web Confirmé (H/F)
+Company: Nadas Group
+Location: 8 Rue Bachaya Bent Maaouia
+Link: https://www.tanitjobs.com/job/1514365/intégrateur-web-confirmé-h-f/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
