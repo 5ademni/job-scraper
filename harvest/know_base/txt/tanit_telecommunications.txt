@@ -1,14 +1,14 @@
-Title: Télévendeurs Téléphonie BtoC
-Company: Premiumcom Group
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1525641/télévendeurs-téléphonie-btoc/?backPage=&searchID=1710344354.4138
-Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/25/PremiumGroup.png
-
 Title: Téléopérateurs / Téléopératrices
 Company: AT CONTACT
 Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1511396/téléopérateurs-téléopératrices/?backPage=&searchID=1710344354.4138
 Company Logo: https://www.tanitjobs.com/files/pictures/2024/03/29/Nouveau_Logo_AT_Contact_2024.png
+
+Title: Télévendeurs Téléphonie BtoC
+Company: Premiumcom Group
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1525641/télévendeurs-téléphonie-btoc/?backPage=&searchID=1710344354.4138
+Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/25/PremiumGroup.png
 
 Title: Bilingual Customer Care Agent – French & English Speaking
 Company: Assist Digital
@@ -16,95 +16,71 @@ Location: Technopole Elghazela, Ariana, Tunisie
 Link: https://www.tanitjobs.com/job/788440/bilingual-customer-care-agent-french-english-speaking/?backPage=&searchID=1710344354.4138
 Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/Logo_AssistDigital2020_Black.png
 
-Title: Référenceur Web / SEO Manager
-Company: LibertaCom
-Location: Avenue la Perle du Sahel khezema Ouest, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1530413/référenceur-web-seo-manager/?backPage=&searchID=1710344354.4138
+Title: Graphiste Web H/F
+Company: NaturaBuy
+Location: Rue du Niger, Montplaisir
+Link: https://www.tanitjobs.com/job/1532097/graphiste-web-h-f/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Technico-Commercial (zone Gafsa)
-Company: Digital Retail
-Location: Montplaisir, Tunis
-Link: https://www.tanitjobs.com/job/1526808/technico-commercial-zone-gafsa/?backPage=&searchID=1710344354.4138
+Title: Conseiller(ère) Francophone
+Company: Secrétariat médical
+Location: Les Berges du Lac 2, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1527504/conseiller-ère-francophone/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Offre de Stage
-Company: Adverto
-Location: Les Berges du Lac 1, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1524774/offre-de-stage/?backPage=&searchID=1710344354.4138
+Title: Téléconseiller en Mutuelle Santé
+Company: oxytim
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1523858/téléconseiller-en-mutuelle-santé/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Responsable de Communication Chargé du Marketing Digital
-Company: Centre Régional de formation à la sureté de l'Aviation de l'OACI
-Location: Montfleury, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1521096/responsable-de-communication-chargé-du-marketing-digital/?backPage=&searchID=1710344354.4138
-Company Logo: https://www.tanitjobs.com/files/pictures/2023/01/18/PANCARTE_%284%29.png
-
-Title: Project Manager DotNet (à distance)
-Company: E-robot Software
+Title: Télévendeur BTOB
+Company: BSHOPER
 Location: Tunisie, Tunisie
-Link: https://www.tanitjobs.com/job/1528471/project-manager-dotnet-à-distance/?backPage=&searchID=1710344354.4138
+Link: https://www.tanitjobs.com/job/1503149/télévendeur-btob/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Installateur GPS
-Company: GPS SYSTEM
-Location: Sahloul, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1521943/installateur-gps/?backPage=&searchID=1710344354.4138
+Title: Téléopératrices / Téléopérateurs Italien
+Company: Terminal & Com
+Location: La Charguia II, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1524772/téléopératrices-téléopérateurs-italien/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Expert Intuitive Coaching Consultant: Full Time
-Company: Sun Contact
-Location: Monplaisir, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1478090/expert-intuitive-coaching-consultant-full-time/?backPage=&searchID=1710344354.4138
+Title: CORPORATE COMMUNICATION OFFICER
+Company: RH PRO PLUS
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1519845/corporate-communication-officer/?backPage=&searchID=1710344354.4138
+Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/04/logo_rhproplus.png
+
+Title: Chargé de Clientèle Italien
+Company: Intelcia
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1532702/chargé-de-clientèle-italien/?backPage=&searchID=1710344354.4138
+Company Logo: https://www.tanitjobs.com/files/pictures/2023/04/26/Logo_Signature_%281%29.png
+
+Title: Prise de Rendez-Vous Mutuelle Sante / 1100 DT
+Company: YR CONNECT
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1534168/prise-de-rendez-vous-mutuelle-sante-1100-dt/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Businnes developer
+Title: Garmin Sales Specialist ( SmartWatch)
 Company: Progress RH Tunisie
 Location: Grand Tunis
-Link: https://www.tanitjobs.com/job/1528321/businnes-developer/?backPage=&searchID=1710344354.4138
+Link: https://www.tanitjobs.com/job/1533975/garmin-sales-specialist-smartwatch/?backPage=&searchID=1710344354.4138
 Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/Progress-RH.png
 
-Title: Technical Support Specialist
-Company: The Hive
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/924505/technical-support-specialist/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Agent de Prospection (Sfax)
-Company: Global Recouvrement
-Location: Sfax, Sfax Tunisie
-Link: https://www.tanitjobs.com/job/1421002/agent-de-prospection-sfax/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Téléconseillers Techniques - Déploiement
+Title: Technicien Support N1
 Company: Xpertcall
-Location: La Charguia I, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1278441/téléconseillers-techniques-déploiement/?backPage=&searchID=1710344354.4138
+Location: Charguia, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1017756/technicien-support-n1/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Senior Sales Déménagement
-Company: APXLeads
-Location: Immeuble Espace Sousse, Sousse, Tunisie.
-Link: https://www.tanitjobs.com/job/1528647/senior-sales-déménagement/?backPage=&searchID=1710344354.4138
+Title: Comptable F
+Company: Netmarketing
+Location: La Soukra, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1500326/comptable-f/?backPage=&searchID=1710344354.4138
 Company Logo: None
-
-Title: Expert(e) SEO/SEA
-Company: BIZBOOSTER
-Location: Manar 2, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1526108/expert-e-seo-sea/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Technicien pour SAV Téléphonie Mobile à Sfax
-Company: RETECH SOLUTIONS
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1502389/technicien-pour-sav-téléphonie-mobile-à-sfax/?backPage=&searchID=1710344354.4138
-Company Logo: None
-
-Title: Chargés Clientéle : Déploiement
-Company: Netcom Active Services
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1518553/chargés-clientéle-déploiement/?backPage=&searchID=1710344354.4138
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/09/22/logo_NAS.png
 
 Title: Chargé Commercial
 Company: Tunisia Trading Technologies
@@ -112,9 +88,33 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1410150/chargé-commercial/?backPage=&searchID=1710344354.4138
 Company Logo: None
 
-Title: Formation+ Emploi Assure
-Company: TMK Services
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1272491/formation-emploi-assure/?backPage=&searchID=1710344354.4138
+Title: Ingénieur Génie Mécanique
+Company: NATECH
+Location: Ariana, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1529368/ingénieur-génie-mécanique/?backPage=&searchID=1710344354.4138
 Company Logo: None
+
+Title: Commercial - Secteur Intégration Réseaux
+Company: STE NETCOM
+Location: Rue de la Bourse Les Berges du Lac 2, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1515513/commercial-secteur-intégration-réseaux/?backPage=&searchID=1710344354.4138
+Company Logo: None
+
+Title: Community Manger
+Company: italian beauty
+Location: Ennasr 2, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1500663/community-manger/?backPage=&searchID=1710344354.4138
+Company Logo: None
+
+Title: CORPORATE COMMUNICATION OFFICER
+Company: RH PRO PLUS
+Location: Tunis,Tunisie
+Link: https://www.tanitjobs.com/job/1519110/corporate-communication-officer/?backPage=&searchID=1710344354.4138
+Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/04/logo_rhproplus.png
+
+Title: Businnes developer
+Company: Progress RH Tunisie
+Location: Grand Tunis
+Link: https://www.tanitjobs.com/job/1528321/businnes-developer/?backPage=&searchID=1710344354.4138
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/Progress-RH.png
 

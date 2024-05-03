@@ -1,37 +1,55 @@
-Title: Graphique Designer / Web Designer
+Title: Graphique Designer
 Company: Tanitoss
 Location: El Mourouj, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1529781/graphique-designer-web-designer/?backPage=&searchID=1710344356.7963
+Link: https://www.tanitjobs.com/job/1529781/graphique-designer/?backPage=&searchID=1710344356.7963
 Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
 
-Title: Graphiste (zone Sfax)
-Company: MAZZARO
-Location: Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1312157/graphiste-zone-sfax/?backPage=&searchID=1710344356.7963
+Title: Designer Graphique
+Company: Tanitoss
+Location: Les Berges du Lac, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1508068/designer-graphique/?backPage=&searchID=1710344356.7963
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
+
+Title: Agent de Voyages (Monastir)
+Company: TOP PROMO VOYAGES
+Location: Monastir, Monastir, Tunisie
+Link: https://www.tanitjobs.com/job/1524945/agent-de-voyages-monastir/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Technicien(ne) Chiffrage / Estimateur(trice) - Meubles sur mesure
-Company: Vitae Recrutement International
-Location: Québec, Canada
-Link: https://www.tanitjobs.com/job/1516352/technicien-ne-chiffrage-estimateur-trice-meubles-sur-mesure/?backPage=&searchID=1710344356.7963
+Title: Webmaster
+Company: Société du Meuble
+Location: Sidi Daoud, La Marsa, Tunisie
+Link: https://www.tanitjobs.com/job/1523767/webmaster/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Assistant(e) Marketing
-Company: IDAF
-Location: Lafayette, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1528661/assistant-e-marketing/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Architecte d'intérieur/ Designer
-Company: modern furniture tunisie
-Location: La Soukra, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1518953/architecte-d-intérieur-designer/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Chargé en Digital Marketing
-Company: medivet
+Title: Offre de Stage d'Été en Architecture d'Intérieur et Design
+Company: STAMP SOLUTIONS
 Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1493905/chargé-en-digital-marketing/?backPage=&searchID=1710344356.7963
+Link: https://www.tanitjobs.com/job/1518691/offre-de-stage-d-été-en-architecture-d-intérieur-et-design/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Designer Produit
+Company: NEPTUNE MOSAIC
+Location: Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1527410/designer-produit/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Designer Graphique
+Company: Siala Pub
+Location: Route El Ain, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1521785/designer-graphique/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Designer
+Company: Nexus Way
+Location: Centre Urbain Nord, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1533429/designer/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Community Manger
+Company: italian beauty
+Location: Ennasr 2, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1500663/community-manger/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
 Title: Designer Grahique
@@ -40,28 +58,28 @@ Location: Sousse, Sousse, Tunisie
 Link: https://www.tanitjobs.com/job/1532529/designer-grahique/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Stage
-Company: Jock'Art Formation
-Location: Le Passage - Tunis
-Link: https://www.tanitjobs.com/job/1531306/stage/?backPage=&searchID=1710344356.7963
+Title: Architecte Talentueux
+Company: PROMED GROUP
+Location: Les Berges du Lac, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1501446/architecte-talentueux/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Infographiste 3D
-Company: Ecoweby
+Title: Graphic Designer / Community Manager
+Company: Brandini digital
+Location: Avenue Habib Bourguiba immeuble Topnet 1er etage
+Link: https://www.tanitjobs.com/job/1411888/graphic-designer-community-manager/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Expert·e en Design UX et Analyse de Données
+Company: Estampes Ray
+Location: Manouba, Manouba, Tunisie
+Link: https://www.tanitjobs.com/job/1515549/expert-e-en-design-ux-et-analyse-de-données/?backPage=&searchID=1710344356.7963
+Company Logo: None
+
+Title: Direction Artisitique
+Company: STE ALWEN PRINT
 Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1418799/infographiste-3d/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Chef d'Agence (Bizerte)
-Company: Cuisina
-Location: Bizerte, Bizerte, Tunisie
-Link: https://www.tanitjobs.com/job/1416647/chef-d-agence-bizerte/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Marketeur Community Manger
-Company: EUREUCAP
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1259080/marketeur-community-manger/?backPage=&searchID=1710344356.7963
+Link: https://www.tanitjobs.com/job/1507607/direction-artisitique/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
 Title: Graphic Designer
@@ -70,51 +88,33 @@ Location: Tunis,Tunisie
 Link: https://www.tanitjobs.com/job/1198824/graphic-designer/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Styliste & Modéliste
-Company: Bacovet
-Location: Mahdia, Mahdia، Tunisie
-Link: https://www.tanitjobs.com/job/1196867/styliste-modéliste/?backPage=&searchID=1710344356.7963
+Title: Responsable marketing
+Company: 4InA technologie
+Location: Technopole Manouba, Manouba, Tunisie
+Link: https://www.tanitjobs.com/job/1466597/responsable-marketing/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Dessinateur en Bâtiment 2D et 3D
-Company: FIT CONSEIL
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1522344/dessinateur-en-bâtiment-2d-et-3d/?backPage=&searchID=1710344356.7963
+Title: Graphiste / Monteur Vidéo
+Company: web media internationl
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1533879/graphiste-monteur-vidéo/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Graphic Designer
-Company: KowalServices SUARL
-Location: Avenue Hedi Nouira Ennasr 2, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1516351/graphic-designer/?backPage=&searchID=1710344356.7963
+Title: Infographiste / Graphic Designer
+Company: 216 Media Services
+Location: Sfax, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1521313/infographiste-graphic-designer/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Assistante Marketing et Communication
-Company: SOPEN
-Location: AV habib Bourguiba 8030 Grombalia
-Link: https://www.tanitjobs.com/job/1527462/assistante-marketing-et-communication/?backPage=&searchID=1710344356.7963
+Title: Chargé en Digital Marketing
+Company: medivet
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1493905/chargé-en-digital-marketing/?backPage=&searchID=1710344356.7963
 Company Logo: None
 
-Title: Graphic Designer
-Company: VIF PRO
-Location: khzema Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1503021/graphic-designer/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: BIM Modeleur – TCE
-Company: FIT CONSEIL
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1522964/bim-modeleur-tce/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Commerciale
-Company: Hayson
-Location: Lotissement Jinène Eddounya, Sidi Daoued,La Marsa
-Link: https://www.tanitjobs.com/job/1514719/commerciale/?backPage=&searchID=1710344356.7963
-Company Logo: None
-
-Title: Infographiste
-Company: qualskills international S.A.R.L
-Location: Hammam Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1527590/infographiste/?backPage=&searchID=1710344356.7963
+Title: Responsable Marketing
+Company: MWG TD
+Location: Monastir, Monastir, Tunisie
+Link: https://www.tanitjobs.com/job/1518925/responsable-marketing/?backPage=&searchID=1710344356.7963
 Company Logo: None
 

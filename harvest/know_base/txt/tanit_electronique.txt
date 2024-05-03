@@ -1,25 +1,49 @@
-Title: INGÉNIEUR TECHNICO-COMMERCIAL-Produits Électriques
-Company: RH PRO PLUS
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1229126/ingénieur-technico-commercial-produits-électriques/?backPage=&searchID=1710344364.8323
-Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/04/logo_rhproplus.png
-
 Title: INGÉNIEUR TECHNICO-COMMERCIAL
 Company: RH PRO PLUS
 Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1425943/ingénieur-technico-commercial/?backPage=&searchID=1710344364.8323
 Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/04/logo_rhproplus.png
 
-Title: Technicien Supérieur en Electricité Bâtiment
-Company: CBSS
-Location: Hammamet, Nabeul, Tunisie
-Link: https://www.tanitjobs.com/job/1515720/technicien-supérieur-en-electricité-bâtiment/?backPage=&searchID=1710344364.8323
+Title: INGÉNIEUR TECHNICO-COMMERCIAL-Produits Électriques
+Company: RH PRO PLUS
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1229126/ingénieur-technico-commercial-produits-électriques/?backPage=&searchID=1710344364.8323
+Company Logo: https://www.tanitjobs.com/files/pictures/2024/04/04/logo_rhproplus.png
+
+Title: Ingénieur Qualité Production
+Company: Asteelflash Tunisie
+Location: La Soukra, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1523996/ingénieur-qualité-production/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Régleur Machine
-Company: ROTOTECA ENGENEERING
-Location: Touza, Monastir, Tunisie
-Link: https://www.tanitjobs.com/job/1520909/régleur-machine/?backPage=&searchID=1710344364.8323
+Title: Opératrice de Production
+Company: Z2S ELECTRONIC
+Location: Mégrine Saint-Gobain, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1503847/opératrice-de-production/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Responsable Méthode Senior Usinage CNC
+Company: eSPACEs Consulting
+Location: Manouba, Manouba, Tunisie
+Link: https://www.tanitjobs.com/job/1487838/responsable-méthode-senior-usinage-cnc/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Ouvrier/ Aide Magasin
+Company: Z2S ELECTRONIC
+Location: Mégrine, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1517414/ouvrier-aide-magasin/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Directeur Industriel
+Company: SIPS
+Location: Tataouine, Tataouine, Tunisie
+Link: https://www.tanitjobs.com/job/1529750/directeur-industriel/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Femme de ménage
+Company: Z2S ELECTRONIC
+Location: Megrine Saint gobain
+Link: https://www.tanitjobs.com/job/1483423/femme-de-ménage/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
 Title: Ingénieur Génie Mécanique
@@ -28,46 +52,10 @@ Location: Ben Arous, Ben Arous, Tunisie
 Link: https://www.tanitjobs.com/job/1246665/ingénieur-génie-mécanique/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien Supérieur en Electronique
-Company: KACEM ELC
-Location: Sfax, Sfax, Tunis
-Link: https://www.tanitjobs.com/job/1529203/technicien-supérieur-en-electronique/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Assistant(e) Commercial(e) Back-Office
-Company: SIRAIL TUNISIE
-Location: Zone Industrielle El Mghira, Fouchana, Tunisie
-Link: https://www.tanitjobs.com/job/1532541/assistant-e-commercial-e-back-office/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Installateur de Systèmes de Sécurité Electronique
-Company: LABELEC TECHNOLOGY
-Location: Ariana, Ariana, Tunisie
-Link: https://www.tanitjobs.com/job/1346332/installateur-de-systèmes-de-sécurité-electronique/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Technicien
-Company: Data Comm Solutions
-Location: Mégrine, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1527142/technicien/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Installateur GPS
-Company: unidev
-Location: Monastir, Monastir, Tunisie
-Link: https://www.tanitjobs.com/job/1518010/installateur-gps/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
 Title: Assistant Comptable
 Company: ENEDO POWER
 Location: 36 Rue 8601 Z.I. Charguia ,Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1521306/assistant-comptable/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Technicien de Maintenance Industrielle
-Company: confiserie le Bustan
-Location: Route Tunis km 12, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1342011/technicien-de-maintenance-industrielle/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
 Title: Ingénieur Electrique / Electromécanique
@@ -76,28 +64,16 @@ Location: Sfax, Sfax, Tunisie
 Link: https://www.tanitjobs.com/job/1357731/ingénieur-electrique-electromécanique/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Responsable Maintenance
-Company: ANONYME
-Location: Béja, Béja , Tunisie
-Link: https://www.tanitjobs.com/job/1488733/responsable-maintenance/?backPage=&searchID=1710344364.8323
+Title: Technicien Test (H/F)
+Company: ATEMS
+Location: Soliman, Nabeul, Tunisie
+Link: https://www.tanitjobs.com/job/1454599/technicien-test-h-f/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Commercial et Responsable de Point de Vente
-Company: MAG Security
-Location: Radès, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1528528/commercial-et-responsable-de-point-de-vente/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Responsable Technique
-Company: hermess compounds
-Location: Zone Industrielle El Mghira, Fouchana, Tunisie
-Link: https://www.tanitjobs.com/job/1521367/responsable-technique/?backPage=&searchID=1710344364.8323
-Company Logo: None
-
-Title: Technico-commercial spécialisé en courant faible (Sousse)
-Company: Soteme
-Location: Avenue Ibn Khaldoun, Monastir, Tunisie
-Link: https://www.tanitjobs.com/job/1458857/technico-commercial-spécialisé-en-courant-faible-sousse/?backPage=&searchID=1710344364.8323
+Title: Technicien Contrôle Qualité en Electronique H/F
+Company: Semar Tunisia
+Location: Chebedda, Nassen, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1141173/technicien-contrôle-qualité-en-electronique-h-f/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
 Title: Technicien avec Expérience en video surveillance
@@ -106,15 +82,39 @@ Location: La Charguia, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1035080/technicien-avec-expérience-en-video-surveillance/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Technicien Électromécanique
-Company: Sté universe import et export
-Location: Sidi Abdelhamid, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1036833/technicien-électromécanique/?backPage=&searchID=1710344364.8323
+Title: Gestionnaire de Parc Assemblage-Contrôle Electrique
+Company: Groupe Elloumi
+Location: Kairouan, Kairouan, Tunisie
+Link: https://www.tanitjobs.com/job/1530124/gestionnaire-de-parc-assemblage-contrôle-electrique/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
-Title: Responsable Logistique
-Company: Electronic Tunisi System
-Location: Ben Arous, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1525571/responsable-logistique/?backPage=&searchID=1710344364.8323
+Title: Ingénieur Méthodes et Industrialisation
+Company: anonyme
+Location: Zone Industrielle Utique, Bizerte, Tunisie
+Link: https://www.tanitjobs.com/job/1531370/ingénieur-méthodes-et-industrialisation/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Technico-Commercial(e) (H / F)
+Company: SCANTECH GROUP
+Location: 98 Rue d'Afrique El Menzah V, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1515629/technico-commercial-e-h-f/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Un(e) Régleur(euse) sur Presse Mécanique
+Company: ROLCAR TUNISIA
+Location: Nabeul, Nabeul, Tunisie
+Link: https://www.tanitjobs.com/job/1525539/un-e-régleur-euse-sur-presse-mécanique/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Développeur Odoo
+Company: Vega Group
+Location: SOUSSE
+Link: https://www.tanitjobs.com/job/1077005/développeur-odoo/?backPage=&searchID=1710344364.8323
+Company Logo: None
+
+Title: Installateur de Systèmes de Sécurité Electronique
+Company: LABELEC TECHNOLOGY
+Location: Ariana, Ariana, Tunisie
+Link: https://www.tanitjobs.com/job/1346332/installateur-de-systèmes-de-sécurité-electronique/?backPage=&searchID=1710344364.8323
 Company Logo: None
 
