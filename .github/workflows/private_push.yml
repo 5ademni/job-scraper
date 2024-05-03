@@ -34,19 +34,3 @@ jobs:
 
       - name: Push to Private Repo
         run: git push
-
-      - name: Checkout Public Repo
-        uses: actions/checkout@v2
-        with:
-          repository: "5ademni/job-dataset"
-
-      - name: Copy Data to Public Repo
-        run: cp -r ${{ github.workspace }}/job-scraper/harvest/* .
-
-      - name: Commit and Push to Public Repo
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update public data"
-          git push
