@@ -4,11 +4,11 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1522190/business-developer-it/?backPage=&searchID=1710344349.2239
 Company Logo: https://www.tanitjobs.com/files/pictures/2023/01/16/Color_logo_with_background.png
 
-Title: Graphique Designer
-Company: Tanitoss
-Location: El Mourouj, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1529781/graphique-designer/?backPage=&searchID=1710344349.2239
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
+Title: Assistantes Administratives et Commerciales
+Company: CIFOP-IMS
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1421021/assistantes-administratives-et-commerciales/?backPage=&searchID=1710344349.2239
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/Cifop-Ims_%281%29.png
 
 Title: Responsable des Ressources Humaines
 Company: FRENCHINNOV
@@ -16,105 +16,105 @@ Location: Tunis, Tunis, Tunisie
 Link: https://www.tanitjobs.com/job/1501971/responsable-des-ressources-humaines/?backPage=&searchID=1710344349.2239
 Company Logo: https://www.tanitjobs.com/files/pictures/2022/06/20/logo-fi-sf.png
 
-Title: Assistantes Administratives et Commerciales
-Company: CIFOP-IMS
-Location: Tunis, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1421021/assistantes-administratives-et-commerciales/?backPage=&searchID=1710344349.2239
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/Cifop-Ims_%281%29.png
+Title: Graphique Designer
+Company: Tanitoss
+Location: El Mourouj, Ben Arous, Tunisie
+Link: https://www.tanitjobs.com/job/1529781/graphique-designer/?backPage=&searchID=1710344349.2239
+Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/24/logo_tanitoss-1_1.png
 
-Title: Développeur BI
-Company: NEOPOLIS
-Location: Avenue Habib bourguiba, Tuinis, Tunisie
-Link: https://www.tanitjobs.com/job/1532710/développeur-bi/?backPage=&searchID=1710344349.2239
-Company Logo: https://www.tanitjobs.com/files/pictures/2023/09/19/n%C3%A9o.png
-
-Title: Responsable Qualité Montage Automobile
-Company: NIMR Sarl
-Location: Zone Industrielle El Mghira, Fouchana, Ben Arous, Tunisie
-Link: https://www.tanitjobs.com/job/1530631/responsable-qualité-montage-automobile/?backPage=&searchID=1710344349.2239
+Title: Software Engineering - Python
+Company: iObeya
+Location: Les Berges du Lac 1, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1534178/software-engineering-python/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Mechanical Engineer
-Company: eagle Ayed group EAG
-Location: Les Berges du Lac 2, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1515642/mechanical-engineer/?backPage=&searchID=1710344349.2239
+Title: Développeur Python/Django
+Company: DIGIXER
+Location: France
+Link: https://www.tanitjobs.com/job/1519214/développeur-python-django/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Ingénieur Vie Série Test
-Company: Progress RH Tunisie
-Location: Tunis,tunisie
-Link: https://www.tanitjobs.com/job/1530003/ingénieur-vie-série-test/?backPage=&searchID=1710344349.2239
-Company Logo: https://www.tanitjobs.com/files/pictures/2021/02/25/Progress-RH.png
-
-Title: Administrateur Base de Données DBA
-Company: Wissal Group
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1509848/administrateur-base-de-données-dba/?backPage=&searchID=1710344349.2239
+Title: Architecte et Designer
+Company: AR Solaire
+Location: 53 rue de l'Energie Charguia1
+Link: https://www.tanitjobs.com/job/1523241/architecte-et-designer/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Ingénieur Développement Python Confirmé F/H
-Company: Soft Objects
-Location: Avenue Yasser Arafet Sousse, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1523324/ingénieur-développement-python-confirmé-f-h/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Graphic Designer UX/UI
-Company: GTI
-Location: Centre Urbain Nord, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1288642/graphic-designer-ux-ui/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Stage PFE en Développement Web ( PFE)
-Company: MDN Company
-Location: Zone d'activités Khereddine, Le Kram, Tunisie
-Link: https://www.tanitjobs.com/job/1532885/stage-pfe-en-développement-web-pfe/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Développeur Senior Full-Stack (NestJS/Python/React) (H/F)
-Company: ECOGEF TUNISIE
-Location: Route Lafrane, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1518001/développeur-senior-full-stack-nestjs-python-react-h-f/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Technicien Supérieur de production
-Company: TECHNO FILM
-Location: Route de Tunis, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1083077/technicien-supérieur-de-production/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Technicien Supérieure en Travaux Public ou Génie Civil ou Hydraulique
-Company: Méga Projects and Hydraulic Engineering-MPHE-
-Location: Route de Tunis, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1527711/technicien-supérieure-en-travaux-public-ou-génie-civil-ou-hydraulique/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Développeur Full Stack Javascript / Typescript
-Company: As Solutions
-Location: Montplaisir, Tunis, Tunisie
-Link: https://www.tanitjobs.com/job/1524727/développeur-full-stack-javascript-typescript/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Photogrammétrie Expérimenté
-Company: SOCIÉTÉ ARCHIMÈDE SERVICES DE PHOTOGRAMMÉTRIE TUNISIE (A.S.P.T)
-Location: Nabeul‎, Nabeul, Tunisie
-Link: https://www.tanitjobs.com/job/1529315/photogrammétrie-expérimenté/?backPage=&searchID=1710344349.2239
-Company Logo: None
-
-Title: Technico-Commercial Industriel
-Company: Groupe Hammami
+Title: Développeur React-Native (H/F)
+Company: Sifo-consulting
 Location: Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1523081/technico-commercial-industriel/?backPage=&searchID=1710344349.2239
+Link: https://www.tanitjobs.com/job/1521025/développeur-react-native-h-f/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Ingénieur agronome en production végétale
-Company: AGRISUD
-Location: Route de Mahdia Km 10 Sfax, Sfax, Tunisie
-Link: https://www.tanitjobs.com/job/1519267/ingénieur-agronome-en-production-végétale/?backPage=&searchID=1710344349.2239
+Title: Formation en Pré-embauche en Full Stack Developer
+Company: ESPS Sfax-Tunisie
+Location: Route El Ain, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1527773/formation-en-pré-embauche-en-full-stack-developer/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
-Title: Responsable Maintenance Mécanique
+Title: Ingénieur
+Company: Confidentiel
+Location: Djerba, Djerba, Tunisie
+Link: https://www.tanitjobs.com/job/1522790/ingénieur/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Ingénieurs et techniciens supérieurs
+Company: HEM ENGINEERING
+Location: Sfax, Sfax, Tunisie
+Link: https://www.tanitjobs.com/job/1519960/ingénieurs-et-techniciens-supérieurs/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Community Manager
+Company: IT & Facility Management
+Location: Immeuble Espace Sousse Rue Khartoum, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1521126/community-manager/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Consultant Power Platform
+Company: ASKWARE TUNISIA
+Location: Sousse, Sousse, Tunisie
+Link: https://www.tanitjobs.com/job/1506738/consultant-power-platform/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Responsable Maintenance Electrique
 Company: Société: SNA (SOCIETE DE NUTRITION ANIMALE) Poulina Group Holding
 Location: Sidi El Heni, Sousse, Tunisie
-Link: https://www.tanitjobs.com/job/1519706/responsable-maintenance-mécanique/?backPage=&searchID=1710344349.2239
+Link: https://www.tanitjobs.com/job/1519710/responsable-maintenance-electrique/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Data Science Python
+Company: coral-io
+Location: Les Berges du Lac II, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1531953/data-science-python/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Ingénieur d'Affaires Confirmé (H/F)
+Company: Lino-IT
+Location: Paris, France, France
+Link: https://www.tanitjobs.com/job/1531418/ingénieur-d-affaires-confirmé-h-f/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Ingenieure génie électric
+Company: groupe de service industriel
+Location: Menzel Jemil, Bizerte, Tunisie
+Link: https://www.tanitjobs.com/job/1508369/ingenieure-génie-électric/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Ingénieur Civil
+Company: hskservices
+Location: Lybie
+Link: https://www.tanitjobs.com/job/1525090/ingénieur-civil/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Data Scientist
+Company: CSA International
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1238082/data-scientist/?backPage=&searchID=1710344349.2239
+Company Logo: None
+
+Title: Consultant SAP
+Company: RH Formaconsult
+Location: Tunis, Tunis, Tunisie
+Link: https://www.tanitjobs.com/job/1522771/consultant-sap/?backPage=&searchID=1710344349.2239
 Company Logo: None
 
