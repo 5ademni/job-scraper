@@ -1,7 +1,7 @@
 from poe_api_wrapper import PoeApi
 
 
-with open('harvest/know_base/txt/tanit_jobs.txt', 'r', encoding='utf-8') as f:
+with open('harvest/know_base/txt/job_list.txt', 'r', encoding='utf-8') as f:
     data = f.read()
 
 tokens = {
@@ -15,5 +15,5 @@ bot = "5ademni_bot"
 message = "say hi!"
 
 
-client.edit_knowledge(knowledgeSourceId=1428020, title='Job offers',
+client.edit_knowledge(knowledgeSourceId=2064315, title='Job_List',
                       content=data)
