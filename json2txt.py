@@ -26,3 +26,7 @@ def json2txt():
                             f.write(f"Link: {job['link']}\n")
                             f.write(f"Company Logo: {job['company_logo']}\n")
                             f.write("\n")
+
+
+if __name__ == "__main__":
+    json2txt()
